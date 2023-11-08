@@ -1,4 +1,4 @@
-#Install
+# Install
 
 ```
 git clone https://github.com/ZetaTauEpsilon/EGRE347-BingoBoiz
