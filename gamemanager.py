@@ -9,3 +9,6 @@ class GameManager():
 
     def makeBoard(Lobby: Lobby) -> JSON:
         pass
+
+    def evaluateWin(BoardState: BoardState) -> bool:
+        pass

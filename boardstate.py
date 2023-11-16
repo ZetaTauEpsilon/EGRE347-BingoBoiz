@@ -2,7 +2,8 @@
 class BoardState:
     
     def __init__(self):
-        pass
+        self.state
+        self.contents
 
     def updateState(self) -> bool:
         pass
