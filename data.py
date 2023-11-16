@@ -11,7 +11,7 @@ class TileSet():
     id: str
     tile: Dict(UUID, Tile)
 
-    def getRandomTiles(num: int) -> List[Tile]:
+    def getRandomTiles(num: int) -> List[Tile]: # and have no duplicates on each board
         pass
 
 @dataclass
