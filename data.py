@@ -6,7 +6,7 @@ from numpy.random import default_rng
 import json
 
 #**************************************
-debug = 0
+debug = 1
 #**************************************
 
 @dataclass
@@ -20,6 +20,8 @@ class TileSet():
     id: str
     tile: dict["id": UUID, "contents" : Tile]
 
+    def helper(self):
+        pass
     
     # TODO do we need these? If so, pull from setup parameters
     lowerRange = 1
@@ -31,10 +33,10 @@ class TileSet():
         TileList:List[Tile] = []
        
         try:
-            numbers = str(rng.choice(np.arange(self.lowerRange,self.upperRange), size=num, replace=False))
+            numbers = rng.choice(np.arange(self.lowerRange,self.upperRange), size=num, replace=False)
             if debug: print(numbers)
             for number in numbers:
-                TileList.append(Tile("TEST_UUID", number))
+                TileList.append(Tile("TEST_UUID", str(number)))
             return TileList
         
         except ValueError:
@@ -48,7 +50,7 @@ class TileSet():
 
 @dataclass
 class DataStorage():
-    TileSets: Dict[str, TileSet]
+    TileSets: dict[str, TileSet]
 
     def getTile(self, id: UUID) -> Tile:
         pass
@@ -60,5 +62,6 @@ class DataStorage():
         pass
 
     def addTileSet(self, name: str, tiles: List[str]) -> bool:
-        TileSet()
-        pass
+        print (type(self.TileSets))
+        TileSet(name, self.TileSets).addSet(name, tiles)
+        return True
