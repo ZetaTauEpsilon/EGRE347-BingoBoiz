@@ -1,0 +1,6002 @@
+[
+    {
+        "dest": "ME",
+        "weight": 74.42096729291359,
+        "stamps": 3,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OR",
+        "weight": 15.069329029040537,
+        "stamps": 3,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "VA",
+        "weight": 4.081377442453357,
+        "stamps": 14,
+        "cargo": "spam"
+    },
+    {
+        "dest": "VA",
+        "weight": 62.06453848708077,
+        "stamps": 3,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NH",
+        "weight": 26.067221447248688,
+        "stamps": 10,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NV",
+        "weight": 33.43042396289944,
+        "stamps": 3,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NV",
+        "weight": 56.176232664492346,
+        "stamps": 3,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "VA",
+        "weight": 57.23593915819745,
+        "stamps": 13,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "ME",
+        "weight": 1.4194607845482627,
+        "stamps": 2,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OK",
+        "weight": 63.056368613349136,
+        "stamps": 20,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CO",
+        "weight": 17.64153425914442,
+        "stamps": 19,
+        "cargo": "keys"
+    },
+    {
+        "dest": "OR",
+        "weight": 20.103087840517265,
+        "stamps": 4,
+        "cargo": "bills"
+    },
+    {
+        "dest": "WA",
+        "weight": 20.046817829964606,
+        "stamps": 17,
+        "cargo": "model"
+    },
+    {
+        "dest": "OK",
+        "weight": 3.98119268622287,
+        "stamps": 9,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NH",
+        "weight": 32.991555679185566,
+        "stamps": 14,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NY",
+        "weight": 37.83763818408678,
+        "stamps": 1,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NV",
+        "weight": 49.131420114933384,
+        "stamps": 1,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "WA",
+        "weight": 45.4695771575221,
+        "stamps": 20,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NY",
+        "weight": 23.558224747649714,
+        "stamps": 12,
+        "cargo": "bills"
+    },
+    {
+        "dest": "OK",
+        "weight": 46.241735188546336,
+        "stamps": 6,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "WA",
+        "weight": 43.221388856265946,
+        "stamps": 1,
+        "cargo": "model"
+    },
+    {
+        "dest": "CO",
+        "weight": 59.97960242270447,
+        "stamps": 9,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NY",
+        "weight": 11.767259016216624,
+        "stamps": 2,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OK",
+        "weight": 12.692832369096479,
+        "stamps": 20,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "CO",
+        "weight": 23.709513255609476,
+        "stamps": 20,
+        "cargo": "model"
+    },
+    {
+        "dest": "ME",
+        "weight": 65.78688900709307,
+        "stamps": 18,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "WA",
+        "weight": 43.16015321432146,
+        "stamps": 1,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "CO",
+        "weight": 24.421041729870865,
+        "stamps": 1,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "OK",
+        "weight": 29.54701631290158,
+        "stamps": 4,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OR",
+        "weight": 62.619137670929874,
+        "stamps": 1,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OK",
+        "weight": 25.76246754631332,
+        "stamps": 15,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NH",
+        "weight": 11.279039455399564,
+        "stamps": 16,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CA",
+        "weight": 37.21084340318775,
+        "stamps": 0,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NV",
+        "weight": 0.03540517864521475,
+        "stamps": 17,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NH",
+        "weight": 23.460123757725107,
+        "stamps": 4,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CA",
+        "weight": 3.6283817465183663,
+        "stamps": 4,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NY",
+        "weight": 60.18781357739568,
+        "stamps": 10,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OR",
+        "weight": 72.92946502928159,
+        "stamps": 8,
+        "cargo": "letter"
+    },
+    {
+        "dest": "CO",
+        "weight": 35.626535169444246,
+        "stamps": 1,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "VA",
+        "weight": 42.0227825207455,
+        "stamps": 19,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "CO",
+        "weight": 53.38576859673204,
+        "stamps": 5,
+        "cargo": "model"
+    },
+    {
+        "dest": "NH",
+        "weight": 37.070108670744354,
+        "stamps": 12,
+        "cargo": "model"
+    },
+    {
+        "dest": "VA",
+        "weight": 55.48278815675177,
+        "stamps": 4,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CO",
+        "weight": 72.91135913070286,
+        "stamps": 13,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OR",
+        "weight": 71.0183979137076,
+        "stamps": 4,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "OK",
+        "weight": 67.29859423303593,
+        "stamps": 15,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NH",
+        "weight": 6.236153415891652,
+        "stamps": 15,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "OK",
+        "weight": 18.434459366161953,
+        "stamps": 4,
+        "cargo": "spam"
+    },
+    {
+        "dest": "WA",
+        "weight": 34.31542962610627,
+        "stamps": 6,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NV",
+        "weight": 24.10806243314574,
+        "stamps": 3,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NH",
+        "weight": 69.21865806735084,
+        "stamps": 6,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NV",
+        "weight": 58.14811075229407,
+        "stamps": 7,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NH",
+        "weight": 47.002967245891575,
+        "stamps": 18,
+        "cargo": "model"
+    },
+    {
+        "dest": "ME",
+        "weight": 36.113129953465446,
+        "stamps": 11,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CO",
+        "weight": 56.537953214349315,
+        "stamps": 8,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "OR",
+        "weight": 20.027757639806207,
+        "stamps": 1,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "ME",
+        "weight": 4.980301910961965,
+        "stamps": 8,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "VA",
+        "weight": 33.111689725357635,
+        "stamps": 20,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NY",
+        "weight": 0.38450134439794725,
+        "stamps": 17,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "ME",
+        "weight": 45.58151247364091,
+        "stamps": 6,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "CA",
+        "weight": 39.38403600952439,
+        "stamps": 11,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OK",
+        "weight": 36.658369006909055,
+        "stamps": 7,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CA",
+        "weight": 6.601995123328985,
+        "stamps": 1,
+        "cargo": "keys"
+    },
+    {
+        "dest": "CO",
+        "weight": 59.55411460925683,
+        "stamps": 16,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "OK",
+        "weight": 26.22433970033607,
+        "stamps": 8,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NH",
+        "weight": 55.175374130381236,
+        "stamps": 18,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CO",
+        "weight": 50.484598514513486,
+        "stamps": 3,
+        "cargo": "model"
+    },
+    {
+        "dest": "NY",
+        "weight": 14.322327241946567,
+        "stamps": 9,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "VA",
+        "weight": 12.088165001331012,
+        "stamps": 7,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "ME",
+        "weight": 74.49621431100259,
+        "stamps": 11,
+        "cargo": "letter"
+    },
+    {
+        "dest": "OR",
+        "weight": 13.406557862586155,
+        "stamps": 9,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "CA",
+        "weight": 2.2223767172670494,
+        "stamps": 5,
+        "cargo": "model"
+    },
+    {
+        "dest": "NV",
+        "weight": 2.6424317434318527,
+        "stamps": 15,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NH",
+        "weight": 67.78778124305933,
+        "stamps": 11,
+        "cargo": "model"
+    },
+    {
+        "dest": "OR",
+        "weight": 62.705798121494084,
+        "stamps": 4,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "ME",
+        "weight": 35.75045936037921,
+        "stamps": 12,
+        "cargo": "spam"
+    },
+    {
+        "dest": "VA",
+        "weight": 67.44021171314613,
+        "stamps": 3,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "WA",
+        "weight": 31.065555074755437,
+        "stamps": 7,
+        "cargo": "bills"
+    },
+    {
+        "dest": "OK",
+        "weight": 52.74811076568505,
+        "stamps": 13,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CA",
+        "weight": 42.554055783050956,
+        "stamps": 5,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OR",
+        "weight": 54.51641936574272,
+        "stamps": 9,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "WA",
+        "weight": 61.05823622526591,
+        "stamps": 19,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NV",
+        "weight": 0.3566748425491595,
+        "stamps": 16,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NY",
+        "weight": 55.04609926807359,
+        "stamps": 15,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CA",
+        "weight": 21.779831585324377,
+        "stamps": 20,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CA",
+        "weight": 9.2492525345012,
+        "stamps": 19,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CO",
+        "weight": 71.13205447526995,
+        "stamps": 3,
+        "cargo": "keys"
+    },
+    {
+        "dest": "WA",
+        "weight": 68.64120417701605,
+        "stamps": 4,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NY",
+        "weight": 60.47220476128177,
+        "stamps": 11,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NY",
+        "weight": 70.95784581082819,
+        "stamps": 13,
+        "cargo": "letter"
+    },
+    {
+        "dest": "VA",
+        "weight": 32.719502558391945,
+        "stamps": 10,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "CO",
+        "weight": 50.21828806909506,
+        "stamps": 16,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NV",
+        "weight": 14.497044227125278,
+        "stamps": 10,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NY",
+        "weight": 39.40340374258546,
+        "stamps": 8,
+        "cargo": "spam"
+    },
+    {
+        "dest": "VA",
+        "weight": 44.13529069707176,
+        "stamps": 10,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OK",
+        "weight": 13.293363730067313,
+        "stamps": 3,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "OK",
+        "weight": 40.51291628612293,
+        "stamps": 2,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CO",
+        "weight": 65.71726002676692,
+        "stamps": 4,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NH",
+        "weight": 29.944698534317023,
+        "stamps": 8,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NY",
+        "weight": 47.851944685610235,
+        "stamps": 6,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NY",
+        "weight": 5.569662662927668,
+        "stamps": 7,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NY",
+        "weight": 60.87507121210635,
+        "stamps": 11,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NY",
+        "weight": 48.408451481333614,
+        "stamps": 6,
+        "cargo": "keys"
+    },
+    {
+        "dest": "CA",
+        "weight": 0.33584540795414675,
+        "stamps": 6,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "ME",
+        "weight": 43.73074098908532,
+        "stamps": 12,
+        "cargo": "keys"
+    },
+    {
+        "dest": "ME",
+        "weight": 53.66800979775157,
+        "stamps": 17,
+        "cargo": "letter"
+    },
+    {
+        "dest": "VA",
+        "weight": 59.07772120456806,
+        "stamps": 17,
+        "cargo": "model"
+    },
+    {
+        "dest": "CO",
+        "weight": 65.56104669982386,
+        "stamps": 4,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NY",
+        "weight": 7.864436266724489,
+        "stamps": 10,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NH",
+        "weight": 74.89619514339746,
+        "stamps": 16,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OK",
+        "weight": 45.843942907692515,
+        "stamps": 1,
+        "cargo": "model"
+    },
+    {
+        "dest": "VA",
+        "weight": 7.70550120599241,
+        "stamps": 2,
+        "cargo": "bills"
+    },
+    {
+        "dest": "ME",
+        "weight": 46.497515181154355,
+        "stamps": 1,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CA",
+        "weight": 43.34335111993543,
+        "stamps": 3,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "ME",
+        "weight": 8.47635244571377,
+        "stamps": 9,
+        "cargo": "letter"
+    },
+    {
+        "dest": "CO",
+        "weight": 0.43705690808426845,
+        "stamps": 8,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CA",
+        "weight": 54.385760295956736,
+        "stamps": 12,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OK",
+        "weight": 71.4607379112398,
+        "stamps": 15,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "CO",
+        "weight": 36.59697482097114,
+        "stamps": 10,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CA",
+        "weight": 21.101983812017625,
+        "stamps": 7,
+        "cargo": "letter"
+    },
+    {
+        "dest": "CA",
+        "weight": 22.17087197623744,
+        "stamps": 4,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CO",
+        "weight": 35.0994250766245,
+        "stamps": 20,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OK",
+        "weight": 3.031087293661172,
+        "stamps": 5,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NY",
+        "weight": 12.883015099750574,
+        "stamps": 15,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NH",
+        "weight": 53.1471700452466,
+        "stamps": 3,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NH",
+        "weight": 40.60225741887263,
+        "stamps": 14,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NV",
+        "weight": 68.53288212967689,
+        "stamps": 15,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CA",
+        "weight": 29.51007062994584,
+        "stamps": 12,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NY",
+        "weight": 0.03030340956714228,
+        "stamps": 18,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "ME",
+        "weight": 23.137876202820387,
+        "stamps": 6,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OR",
+        "weight": 12.070089668608341,
+        "stamps": 3,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 51.56567357881112,
+        "stamps": 5,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NY",
+        "weight": 48.126712185114286,
+        "stamps": 18,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CO",
+        "weight": 60.43299986232228,
+        "stamps": 17,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NV",
+        "weight": 43.86339373807876,
+        "stamps": 7,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NH",
+        "weight": 71.08734827094746,
+        "stamps": 7,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NH",
+        "weight": 4.730598393552388,
+        "stamps": 3,
+        "cargo": "bills"
+    },
+    {
+        "dest": "WA",
+        "weight": 71.93852803392197,
+        "stamps": 18,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "ME",
+        "weight": 25.59499879190925,
+        "stamps": 8,
+        "cargo": "keys"
+    },
+    {
+        "dest": "CA",
+        "weight": 35.62615578170707,
+        "stamps": 16,
+        "cargo": "keys"
+    },
+    {
+        "dest": "OR",
+        "weight": 15.460507293105918,
+        "stamps": 18,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NY",
+        "weight": 60.0488656782205,
+        "stamps": 20,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "VA",
+        "weight": 38.82131039965354,
+        "stamps": 18,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NV",
+        "weight": 9.128180370150805,
+        "stamps": 3,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 70.17424386951116,
+        "stamps": 2,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "CO",
+        "weight": 59.43133418503447,
+        "stamps": 15,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "OR",
+        "weight": 15.387255052598908,
+        "stamps": 8,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OK",
+        "weight": 37.69649050227792,
+        "stamps": 19,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "VA",
+        "weight": 60.343637947821215,
+        "stamps": 17,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "ME",
+        "weight": 71.29727970796333,
+        "stamps": 13,
+        "cargo": "letter"
+    },
+    {
+        "dest": "VA",
+        "weight": 35.02623087338507,
+        "stamps": 0,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "CA",
+        "weight": 36.53214400383275,
+        "stamps": 11,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CO",
+        "weight": 58.54081402930033,
+        "stamps": 8,
+        "cargo": "model"
+    },
+    {
+        "dest": "ME",
+        "weight": 24.260571587829876,
+        "stamps": 7,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OK",
+        "weight": 8.193884872368395,
+        "stamps": 9,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NH",
+        "weight": 21.584650890509373,
+        "stamps": 18,
+        "cargo": "model"
+    },
+    {
+        "dest": "NV",
+        "weight": 68.5589610984445,
+        "stamps": 16,
+        "cargo": "model"
+    },
+    {
+        "dest": "OR",
+        "weight": 3.322196044746617,
+        "stamps": 19,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NH",
+        "weight": 7.7839039203354945,
+        "stamps": 3,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CA",
+        "weight": 6.031594929332707,
+        "stamps": 17,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CO",
+        "weight": 43.78254145040137,
+        "stamps": 7,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "OK",
+        "weight": 65.97919853416512,
+        "stamps": 7,
+        "cargo": "spam"
+    },
+    {
+        "dest": "VA",
+        "weight": 12.138323116943342,
+        "stamps": 15,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CA",
+        "weight": 64.0242516133084,
+        "stamps": 13,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CO",
+        "weight": 2.1583407241411665,
+        "stamps": 1,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "VA",
+        "weight": 30.890513362131767,
+        "stamps": 0,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NH",
+        "weight": 46.5555112285857,
+        "stamps": 16,
+        "cargo": "bills"
+    },
+    {
+        "dest": "OK",
+        "weight": 17.148286645965552,
+        "stamps": 18,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CA",
+        "weight": 54.07875833380207,
+        "stamps": 5,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "OK",
+        "weight": 71.33318912423618,
+        "stamps": 18,
+        "cargo": "model"
+    },
+    {
+        "dest": "NH",
+        "weight": 47.77688506700532,
+        "stamps": 4,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "OK",
+        "weight": 57.28334403737755,
+        "stamps": 1,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "ME",
+        "weight": 22.40102182132778,
+        "stamps": 13,
+        "cargo": "model"
+    },
+    {
+        "dest": "NV",
+        "weight": 11.410493432003467,
+        "stamps": 19,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NH",
+        "weight": 14.63531121400382,
+        "stamps": 5,
+        "cargo": "spam"
+    },
+    {
+        "dest": "ME",
+        "weight": 53.26739787839856,
+        "stamps": 0,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CA",
+        "weight": 36.6111068735479,
+        "stamps": 5,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CO",
+        "weight": 52.653502654359826,
+        "stamps": 2,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CO",
+        "weight": 1.5631319320851795,
+        "stamps": 6,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 31.972327675055727,
+        "stamps": 1,
+        "cargo": "spam"
+    },
+    {
+        "dest": "ME",
+        "weight": 44.076072307678785,
+        "stamps": 19,
+        "cargo": "model"
+    },
+    {
+        "dest": "VA",
+        "weight": 74.99177924322734,
+        "stamps": 14,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CO",
+        "weight": 8.698238886136982,
+        "stamps": 18,
+        "cargo": "model"
+    },
+    {
+        "dest": "CO",
+        "weight": 26.34307303238738,
+        "stamps": 15,
+        "cargo": "keys"
+    },
+    {
+        "dest": "ME",
+        "weight": 65.484289084697,
+        "stamps": 18,
+        "cargo": "keys"
+    },
+    {
+        "dest": "CA",
+        "weight": 59.871223562775356,
+        "stamps": 20,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OR",
+        "weight": 69.64285641118622,
+        "stamps": 1,
+        "cargo": "model"
+    },
+    {
+        "dest": "WA",
+        "weight": 35.66913599125408,
+        "stamps": 3,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NY",
+        "weight": 9.616310205627807,
+        "stamps": 1,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NV",
+        "weight": 27.406402840452472,
+        "stamps": 17,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "ME",
+        "weight": 68.0241749894124,
+        "stamps": 2,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "VA",
+        "weight": 59.84013241693925,
+        "stamps": 17,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CA",
+        "weight": 55.14389824650603,
+        "stamps": 11,
+        "cargo": "letter"
+    },
+    {
+        "dest": "OR",
+        "weight": 67.2045233987878,
+        "stamps": 6,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NY",
+        "weight": 59.97009712230222,
+        "stamps": 14,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CA",
+        "weight": 57.5875955957811,
+        "stamps": 7,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "OR",
+        "weight": 16.587048636956496,
+        "stamps": 8,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NV",
+        "weight": 1.5061071738740077,
+        "stamps": 10,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "OK",
+        "weight": 16.730431106119852,
+        "stamps": 4,
+        "cargo": "spam"
+    },
+    {
+        "dest": "ME",
+        "weight": 56.55671581353664,
+        "stamps": 18,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NH",
+        "weight": 17.468305202953346,
+        "stamps": 15,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "WA",
+        "weight": 69.4152766296516,
+        "stamps": 8,
+        "cargo": "keys"
+    },
+    {
+        "dest": "OK",
+        "weight": 41.13260633251437,
+        "stamps": 18,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OK",
+        "weight": 28.317848418799475,
+        "stamps": 7,
+        "cargo": "keys"
+    },
+    {
+        "dest": "OK",
+        "weight": 37.07408364621611,
+        "stamps": 2,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OK",
+        "weight": 72.91433708507368,
+        "stamps": 5,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CO",
+        "weight": 46.13019134580056,
+        "stamps": 19,
+        "cargo": "spam"
+    },
+    {
+        "dest": "WA",
+        "weight": 63.582789425667315,
+        "stamps": 20,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NY",
+        "weight": 62.791234875334986,
+        "stamps": 0,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NY",
+        "weight": 53.974393371919334,
+        "stamps": 5,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 33.14209942992482,
+        "stamps": 7,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CO",
+        "weight": 56.7905556873301,
+        "stamps": 15,
+        "cargo": "letter"
+    },
+    {
+        "dest": "OR",
+        "weight": 16.230253071731408,
+        "stamps": 16,
+        "cargo": "keys"
+    },
+    {
+        "dest": "CA",
+        "weight": 74.28643434854702,
+        "stamps": 7,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "ME",
+        "weight": 56.52706625043527,
+        "stamps": 20,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "WA",
+        "weight": 70.58353088601784,
+        "stamps": 11,
+        "cargo": "letter"
+    },
+    {
+        "dest": "OK",
+        "weight": 55.42490068181769,
+        "stamps": 3,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OK",
+        "weight": 52.90418434246427,
+        "stamps": 6,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NY",
+        "weight": 27.757079659764706,
+        "stamps": 8,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NV",
+        "weight": 66.37890069331253,
+        "stamps": 2,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "ME",
+        "weight": 56.41357104082783,
+        "stamps": 13,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CA",
+        "weight": 20.231816922073957,
+        "stamps": 9,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NY",
+        "weight": 58.150701996708925,
+        "stamps": 9,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "VA",
+        "weight": 13.63334701841094,
+        "stamps": 12,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CO",
+        "weight": 49.24048673153776,
+        "stamps": 20,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "VA",
+        "weight": 70.56979401731061,
+        "stamps": 9,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CA",
+        "weight": 29.22319399369534,
+        "stamps": 14,
+        "cargo": "letter"
+    },
+    {
+        "dest": "VA",
+        "weight": 17.965603327761244,
+        "stamps": 15,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NV",
+        "weight": 69.92448319736681,
+        "stamps": 1,
+        "cargo": "keys"
+    },
+    {
+        "dest": "VA",
+        "weight": 24.879683995868902,
+        "stamps": 13,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 61.98231844938414,
+        "stamps": 15,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 5.227543445887936,
+        "stamps": 20,
+        "cargo": "model"
+    },
+    {
+        "dest": "OR",
+        "weight": 2.666330896469021,
+        "stamps": 7,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OR",
+        "weight": 60.80680081150319,
+        "stamps": 18,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OK",
+        "weight": 12.407498502251348,
+        "stamps": 16,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "WA",
+        "weight": 25.52026846632914,
+        "stamps": 16,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "OK",
+        "weight": 5.9799204851545165,
+        "stamps": 14,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "ME",
+        "weight": 57.874284166411556,
+        "stamps": 11,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CA",
+        "weight": 40.957793611534306,
+        "stamps": 20,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NY",
+        "weight": 54.39300287236021,
+        "stamps": 20,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CO",
+        "weight": 53.123507480008705,
+        "stamps": 7,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NH",
+        "weight": 12.113938384534887,
+        "stamps": 0,
+        "cargo": "letter"
+    },
+    {
+        "dest": "CO",
+        "weight": 23.01472292759577,
+        "stamps": 17,
+        "cargo": "model"
+    },
+    {
+        "dest": "CA",
+        "weight": 9.499469749232576,
+        "stamps": 10,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OK",
+        "weight": 71.1375979966618,
+        "stamps": 14,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NY",
+        "weight": 6.606701732371673,
+        "stamps": 19,
+        "cargo": "bills"
+    },
+    {
+        "dest": "OK",
+        "weight": 15.631394631310064,
+        "stamps": 11,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NV",
+        "weight": 65.51082351818033,
+        "stamps": 13,
+        "cargo": "keys"
+    },
+    {
+        "dest": "ME",
+        "weight": 19.20483366409387,
+        "stamps": 3,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NV",
+        "weight": 7.43551178175842,
+        "stamps": 20,
+        "cargo": "model"
+    },
+    {
+        "dest": "ME",
+        "weight": 67.2433640853282,
+        "stamps": 11,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "OR",
+        "weight": 15.739550516896236,
+        "stamps": 6,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "ME",
+        "weight": 33.11550433137305,
+        "stamps": 5,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "ME",
+        "weight": 14.62381442939749,
+        "stamps": 7,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "CO",
+        "weight": 26.826886701295855,
+        "stamps": 14,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NY",
+        "weight": 51.12761139395155,
+        "stamps": 15,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 51.71485264771503,
+        "stamps": 8,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OR",
+        "weight": 37.225133474535994,
+        "stamps": 0,
+        "cargo": "keys"
+    },
+    {
+        "dest": "OR",
+        "weight": 2.415814765307389,
+        "stamps": 4,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NY",
+        "weight": 39.40578271775794,
+        "stamps": 0,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "VA",
+        "weight": 47.38699782815531,
+        "stamps": 17,
+        "cargo": "model"
+    },
+    {
+        "dest": "NY",
+        "weight": 24.37533723593575,
+        "stamps": 12,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NV",
+        "weight": 68.76588441721792,
+        "stamps": 11,
+        "cargo": "model"
+    },
+    {
+        "dest": "NV",
+        "weight": 15.82242086591389,
+        "stamps": 16,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NH",
+        "weight": 56.65529550246297,
+        "stamps": 10,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NH",
+        "weight": 29.940825545045307,
+        "stamps": 5,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NH",
+        "weight": 24.613624084999135,
+        "stamps": 1,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CO",
+        "weight": 11.12499138292597,
+        "stamps": 9,
+        "cargo": "model"
+    },
+    {
+        "dest": "NV",
+        "weight": 68.95013009981238,
+        "stamps": 15,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NY",
+        "weight": 70.59461360970113,
+        "stamps": 20,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 17.962860347686302,
+        "stamps": 11,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CA",
+        "weight": 49.636974439324526,
+        "stamps": 14,
+        "cargo": "keys"
+    },
+    {
+        "dest": "VA",
+        "weight": 67.64631022793053,
+        "stamps": 19,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "CA",
+        "weight": 57.159246557089624,
+        "stamps": 18,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NY",
+        "weight": 15.888681029039315,
+        "stamps": 15,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CA",
+        "weight": 16.069220961428403,
+        "stamps": 6,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CA",
+        "weight": 6.574864006990539,
+        "stamps": 20,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NV",
+        "weight": 72.40518125737412,
+        "stamps": 4,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NV",
+        "weight": 27.36605365850031,
+        "stamps": 18,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OR",
+        "weight": 60.85809310423774,
+        "stamps": 18,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NY",
+        "weight": 49.90102543916329,
+        "stamps": 10,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NY",
+        "weight": 55.36949257776095,
+        "stamps": 9,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NH",
+        "weight": 57.599898513335496,
+        "stamps": 9,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NH",
+        "weight": 2.032442116865432,
+        "stamps": 18,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NV",
+        "weight": 61.58841218897112,
+        "stamps": 10,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CA",
+        "weight": 67.8646803855825,
+        "stamps": 3,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OR",
+        "weight": 68.51461914956799,
+        "stamps": 15,
+        "cargo": "model"
+    },
+    {
+        "dest": "OR",
+        "weight": 49.00961932820869,
+        "stamps": 16,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OK",
+        "weight": 62.48608997270907,
+        "stamps": 6,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "WA",
+        "weight": 25.019835444960997,
+        "stamps": 12,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CA",
+        "weight": 57.5940350760661,
+        "stamps": 3,
+        "cargo": "keys"
+    },
+    {
+        "dest": "ME",
+        "weight": 67.47139863863781,
+        "stamps": 13,
+        "cargo": "model"
+    },
+    {
+        "dest": "OK",
+        "weight": 69.07020561172462,
+        "stamps": 6,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OK",
+        "weight": 59.47655255910967,
+        "stamps": 6,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NV",
+        "weight": 64.77615682851223,
+        "stamps": 16,
+        "cargo": "spam"
+    },
+    {
+        "dest": "VA",
+        "weight": 63.59487107446111,
+        "stamps": 12,
+        "cargo": "bills"
+    },
+    {
+        "dest": "OK",
+        "weight": 5.279655533173222,
+        "stamps": 12,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NH",
+        "weight": 40.62426056064098,
+        "stamps": 14,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OK",
+        "weight": 28.30805986468439,
+        "stamps": 12,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NY",
+        "weight": 42.72788702442698,
+        "stamps": 3,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "VA",
+        "weight": 27.523958134552476,
+        "stamps": 8,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NY",
+        "weight": 69.19665118606285,
+        "stamps": 11,
+        "cargo": "spam"
+    },
+    {
+        "dest": "WA",
+        "weight": 52.25057078242433,
+        "stamps": 13,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NV",
+        "weight": 49.15657570847654,
+        "stamps": 11,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NY",
+        "weight": 71.29914518789809,
+        "stamps": 20,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "ME",
+        "weight": 63.88227173590952,
+        "stamps": 20,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CO",
+        "weight": 37.87664701247671,
+        "stamps": 2,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NY",
+        "weight": 3.4173000735845003,
+        "stamps": 6,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CA",
+        "weight": 26.942354231097564,
+        "stamps": 5,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "ME",
+        "weight": 9.754758275670156,
+        "stamps": 16,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CA",
+        "weight": 57.51431609408637,
+        "stamps": 14,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OR",
+        "weight": 61.70212042625404,
+        "stamps": 10,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CA",
+        "weight": 30.55643520093561,
+        "stamps": 20,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CA",
+        "weight": 49.29376329832562,
+        "stamps": 8,
+        "cargo": "model"
+    },
+    {
+        "dest": "NV",
+        "weight": 8.533597962836916,
+        "stamps": 18,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NY",
+        "weight": 1.8589981938402418,
+        "stamps": 16,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "VA",
+        "weight": 10.441220231791243,
+        "stamps": 1,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "WA",
+        "weight": 62.01766234411932,
+        "stamps": 2,
+        "cargo": "model"
+    },
+    {
+        "dest": "NV",
+        "weight": 20.311139668274873,
+        "stamps": 6,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NV",
+        "weight": 49.32186396919931,
+        "stamps": 1,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NV",
+        "weight": 37.80431096142952,
+        "stamps": 9,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "WA",
+        "weight": 38.06031227926957,
+        "stamps": 6,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CO",
+        "weight": 10.172028116135895,
+        "stamps": 12,
+        "cargo": "bills"
+    },
+    {
+        "dest": "OR",
+        "weight": 21.054835078821032,
+        "stamps": 15,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CO",
+        "weight": 56.62196767536835,
+        "stamps": 5,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "CA",
+        "weight": 57.77995002952252,
+        "stamps": 16,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "WA",
+        "weight": 60.04175064286782,
+        "stamps": 3,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NY",
+        "weight": 60.058089474790634,
+        "stamps": 13,
+        "cargo": "keys"
+    },
+    {
+        "dest": "OK",
+        "weight": 43.25637912400936,
+        "stamps": 17,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NV",
+        "weight": 46.283297301865204,
+        "stamps": 1,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NH",
+        "weight": 24.59918452187168,
+        "stamps": 4,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "OR",
+        "weight": 1.2469584729431993,
+        "stamps": 12,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OR",
+        "weight": 64.14535043207994,
+        "stamps": 14,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CA",
+        "weight": 65.04871291327304,
+        "stamps": 17,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "WA",
+        "weight": 49.303929556145285,
+        "stamps": 17,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NV",
+        "weight": 1.0572276749623217,
+        "stamps": 1,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CO",
+        "weight": 72.03527986086617,
+        "stamps": 19,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OR",
+        "weight": 16.671204317596494,
+        "stamps": 6,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "CO",
+        "weight": 25.872681374299503,
+        "stamps": 4,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "CA",
+        "weight": 55.76285711899402,
+        "stamps": 14,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NY",
+        "weight": 29.256895638878785,
+        "stamps": 12,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "OR",
+        "weight": 21.193824400884136,
+        "stamps": 13,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NV",
+        "weight": 73.76478749600285,
+        "stamps": 4,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NV",
+        "weight": 25.534471105151827,
+        "stamps": 6,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CO",
+        "weight": 35.85852246486078,
+        "stamps": 16,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NH",
+        "weight": 47.62354128648343,
+        "stamps": 18,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NV",
+        "weight": 1.7752968927661261,
+        "stamps": 1,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "WA",
+        "weight": 65.49342976489646,
+        "stamps": 14,
+        "cargo": "model"
+    },
+    {
+        "dest": "WA",
+        "weight": 28.345229490349507,
+        "stamps": 0,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NH",
+        "weight": 61.854930910581835,
+        "stamps": 14,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CA",
+        "weight": 11.677833724718688,
+        "stamps": 1,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "OK",
+        "weight": 52.613385346014404,
+        "stamps": 2,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CA",
+        "weight": 45.33974691763821,
+        "stamps": 7,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NV",
+        "weight": 26.99831054829454,
+        "stamps": 18,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NH",
+        "weight": 67.09138324813718,
+        "stamps": 15,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "ME",
+        "weight": 6.972901039217732,
+        "stamps": 4,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NH",
+        "weight": 66.22211164972983,
+        "stamps": 5,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OR",
+        "weight": 34.66854696701554,
+        "stamps": 20,
+        "cargo": "bills"
+    },
+    {
+        "dest": "VA",
+        "weight": 64.07589171143803,
+        "stamps": 9,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CA",
+        "weight": 32.99507728994022,
+        "stamps": 5,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NV",
+        "weight": 24.168911295835624,
+        "stamps": 20,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NV",
+        "weight": 25.55504594155541,
+        "stamps": 4,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NV",
+        "weight": 51.80126262467821,
+        "stamps": 16,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "ME",
+        "weight": 53.07352301907787,
+        "stamps": 11,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NY",
+        "weight": 52.864827142855,
+        "stamps": 4,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NH",
+        "weight": 41.58889952009727,
+        "stamps": 9,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NY",
+        "weight": 24.496221050294068,
+        "stamps": 14,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CA",
+        "weight": 48.194607969362174,
+        "stamps": 8,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OK",
+        "weight": 66.72919759326292,
+        "stamps": 3,
+        "cargo": "letter"
+    },
+    {
+        "dest": "OK",
+        "weight": 6.540404837864711,
+        "stamps": 10,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "VA",
+        "weight": 16.18247976237668,
+        "stamps": 15,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NV",
+        "weight": 25.670348457831054,
+        "stamps": 16,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NY",
+        "weight": 2.492705999668199,
+        "stamps": 16,
+        "cargo": "spam"
+    },
+    {
+        "dest": "VA",
+        "weight": 32.37720618363362,
+        "stamps": 19,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "OK",
+        "weight": 66.44304451955404,
+        "stamps": 4,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CA",
+        "weight": 60.684107509184685,
+        "stamps": 0,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NH",
+        "weight": 13.102810160618345,
+        "stamps": 7,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NH",
+        "weight": 2.271201451324603,
+        "stamps": 1,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CA",
+        "weight": 53.325807336882676,
+        "stamps": 19,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NV",
+        "weight": 13.993739375638334,
+        "stamps": 5,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "OK",
+        "weight": 47.314951660556645,
+        "stamps": 0,
+        "cargo": "model"
+    },
+    {
+        "dest": "VA",
+        "weight": 58.09793675859166,
+        "stamps": 8,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NH",
+        "weight": 43.639411516941905,
+        "stamps": 4,
+        "cargo": "keys"
+    },
+    {
+        "dest": "CA",
+        "weight": 46.61273084618561,
+        "stamps": 14,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "OR",
+        "weight": 20.890816131876385,
+        "stamps": 1,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NH",
+        "weight": 20.256778739151212,
+        "stamps": 6,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NY",
+        "weight": 73.1576278638429,
+        "stamps": 13,
+        "cargo": "model"
+    },
+    {
+        "dest": "ME",
+        "weight": 8.540630089719858,
+        "stamps": 15,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CA",
+        "weight": 29.602984169847428,
+        "stamps": 0,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NH",
+        "weight": 38.97131992856462,
+        "stamps": 1,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NY",
+        "weight": 71.19575310962841,
+        "stamps": 7,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NV",
+        "weight": 73.49064692648152,
+        "stamps": 0,
+        "cargo": "model"
+    },
+    {
+        "dest": "ME",
+        "weight": 5.739501865281335,
+        "stamps": 5,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NH",
+        "weight": 50.689276118641914,
+        "stamps": 0,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NH",
+        "weight": 0.2198935428541604,
+        "stamps": 20,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "VA",
+        "weight": 74.93755360336964,
+        "stamps": 5,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OR",
+        "weight": 37.68713876421645,
+        "stamps": 2,
+        "cargo": "model"
+    },
+    {
+        "dest": "NY",
+        "weight": 67.49791181780951,
+        "stamps": 11,
+        "cargo": "bills"
+    },
+    {
+        "dest": "OK",
+        "weight": 1.7752542584717979,
+        "stamps": 14,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "WA",
+        "weight": 39.79935350668161,
+        "stamps": 2,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NH",
+        "weight": 35.443148458113825,
+        "stamps": 10,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "VA",
+        "weight": 48.95478494130338,
+        "stamps": 13,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CA",
+        "weight": 53.005463206204645,
+        "stamps": 7,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NY",
+        "weight": 59.961697671912475,
+        "stamps": 15,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NV",
+        "weight": 49.113353561279965,
+        "stamps": 4,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "VA",
+        "weight": 40.004311688035365,
+        "stamps": 15,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "OK",
+        "weight": 54.87080139090013,
+        "stamps": 11,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "WA",
+        "weight": 52.03287449704202,
+        "stamps": 11,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NV",
+        "weight": 41.405613752551766,
+        "stamps": 20,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 27.711595833857412,
+        "stamps": 14,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "WA",
+        "weight": 73.40934140892895,
+        "stamps": 11,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OK",
+        "weight": 51.39534023838409,
+        "stamps": 20,
+        "cargo": "model"
+    },
+    {
+        "dest": "OR",
+        "weight": 5.9138274735772765,
+        "stamps": 19,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CO",
+        "weight": 19.19332416160005,
+        "stamps": 19,
+        "cargo": "keys"
+    },
+    {
+        "dest": "OK",
+        "weight": 33.770349829446076,
+        "stamps": 19,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NV",
+        "weight": 19.904190355531654,
+        "stamps": 0,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NV",
+        "weight": 11.952030889911317,
+        "stamps": 16,
+        "cargo": "model"
+    },
+    {
+        "dest": "CA",
+        "weight": 50.32846372445905,
+        "stamps": 19,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NH",
+        "weight": 53.458223127961546,
+        "stamps": 9,
+        "cargo": "bills"
+    },
+    {
+        "dest": "WA",
+        "weight": 42.26644281973781,
+        "stamps": 7,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CO",
+        "weight": 62.82357373291379,
+        "stamps": 17,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NV",
+        "weight": 22.63162996531655,
+        "stamps": 18,
+        "cargo": "model"
+    },
+    {
+        "dest": "NH",
+        "weight": 10.358381131441726,
+        "stamps": 7,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NY",
+        "weight": 6.661668890318681,
+        "stamps": 10,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "OR",
+        "weight": 26.954531715742675,
+        "stamps": 2,
+        "cargo": "spam"
+    },
+    {
+        "dest": "VA",
+        "weight": 12.60819631079575,
+        "stamps": 13,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CO",
+        "weight": 55.921410620363815,
+        "stamps": 16,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "VA",
+        "weight": 64.09593771230615,
+        "stamps": 3,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NV",
+        "weight": 65.48158561108843,
+        "stamps": 9,
+        "cargo": "letter"
+    },
+    {
+        "dest": "CA",
+        "weight": 43.881505397753706,
+        "stamps": 15,
+        "cargo": "keys"
+    },
+    {
+        "dest": "VA",
+        "weight": 8.151759597163027,
+        "stamps": 13,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CO",
+        "weight": 20.996672200849968,
+        "stamps": 8,
+        "cargo": "model"
+    },
+    {
+        "dest": "VA",
+        "weight": 9.740738017401743,
+        "stamps": 16,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NH",
+        "weight": 42.518641938047224,
+        "stamps": 0,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CO",
+        "weight": 44.51961413487164,
+        "stamps": 11,
+        "cargo": "letter"
+    },
+    {
+        "dest": "ME",
+        "weight": 54.47763844092624,
+        "stamps": 7,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "WA",
+        "weight": 63.79828241095299,
+        "stamps": 15,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "CA",
+        "weight": 33.92103862009621,
+        "stamps": 1,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NY",
+        "weight": 46.668951936272194,
+        "stamps": 16,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "ME",
+        "weight": 21.611342664145123,
+        "stamps": 5,
+        "cargo": "model"
+    },
+    {
+        "dest": "NV",
+        "weight": 19.046880081332336,
+        "stamps": 4,
+        "cargo": "model"
+    },
+    {
+        "dest": "VA",
+        "weight": 6.56756982111957,
+        "stamps": 1,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CA",
+        "weight": 19.135204111017586,
+        "stamps": 12,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NY",
+        "weight": 36.87673026352294,
+        "stamps": 19,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OR",
+        "weight": 26.980046841034326,
+        "stamps": 15,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CA",
+        "weight": 70.6768001423625,
+        "stamps": 13,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "ME",
+        "weight": 42.00288938967992,
+        "stamps": 14,
+        "cargo": "letter"
+    },
+    {
+        "dest": "VA",
+        "weight": 61.235784069272235,
+        "stamps": 0,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "VA",
+        "weight": 0.09779290719690303,
+        "stamps": 7,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "ME",
+        "weight": 30.65360977147571,
+        "stamps": 5,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NV",
+        "weight": 61.78555595955069,
+        "stamps": 6,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NH",
+        "weight": 39.44455661007994,
+        "stamps": 4,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "ME",
+        "weight": 14.637211562199118,
+        "stamps": 6,
+        "cargo": "letter"
+    },
+    {
+        "dest": "CO",
+        "weight": 36.03195663753914,
+        "stamps": 19,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CO",
+        "weight": 59.334231626677656,
+        "stamps": 1,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NH",
+        "weight": 19.100936599138233,
+        "stamps": 13,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "VA",
+        "weight": 58.22414482513731,
+        "stamps": 6,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OR",
+        "weight": 14.112880134015493,
+        "stamps": 6,
+        "cargo": "model"
+    },
+    {
+        "dest": "OR",
+        "weight": 62.99865278016659,
+        "stamps": 14,
+        "cargo": "spam"
+    },
+    {
+        "dest": "WA",
+        "weight": 46.8682937397446,
+        "stamps": 15,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CO",
+        "weight": 56.12498001873464,
+        "stamps": 15,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NY",
+        "weight": 7.035554136916944,
+        "stamps": 14,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NH",
+        "weight": 11.204913631909585,
+        "stamps": 1,
+        "cargo": "keys"
+    },
+    {
+        "dest": "CA",
+        "weight": 32.08763992494597,
+        "stamps": 18,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NH",
+        "weight": 64.02613317473227,
+        "stamps": 10,
+        "cargo": "spam"
+    },
+    {
+        "dest": "WA",
+        "weight": 42.68548193587339,
+        "stamps": 18,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NY",
+        "weight": 65.13294409923081,
+        "stamps": 13,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CA",
+        "weight": 3.582436832719499,
+        "stamps": 2,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NH",
+        "weight": 11.681773026501563,
+        "stamps": 17,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NH",
+        "weight": 22.390219609757768,
+        "stamps": 7,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NY",
+        "weight": 30.739986402109164,
+        "stamps": 9,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NH",
+        "weight": 15.871279582543982,
+        "stamps": 20,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NV",
+        "weight": 52.04337474106658,
+        "stamps": 4,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NV",
+        "weight": 24.7856823047935,
+        "stamps": 20,
+        "cargo": "spam"
+    },
+    {
+        "dest": "ME",
+        "weight": 46.83588453246914,
+        "stamps": 6,
+        "cargo": "keys"
+    },
+    {
+        "dest": "WA",
+        "weight": 3.0773327555474324,
+        "stamps": 14,
+        "cargo": "model"
+    },
+    {
+        "dest": "CA",
+        "weight": 12.917699734664327,
+        "stamps": 7,
+        "cargo": "model"
+    },
+    {
+        "dest": "WA",
+        "weight": 70.07332355398123,
+        "stamps": 18,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 14.981325428221318,
+        "stamps": 10,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CA",
+        "weight": 4.89958037060298,
+        "stamps": 7,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CO",
+        "weight": 55.26173742361081,
+        "stamps": 12,
+        "cargo": "model"
+    },
+    {
+        "dest": "CA",
+        "weight": 46.602838626212375,
+        "stamps": 4,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "WA",
+        "weight": 58.81165194855255,
+        "stamps": 4,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CA",
+        "weight": 3.2655707324643792,
+        "stamps": 0,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NV",
+        "weight": 56.078467512063334,
+        "stamps": 0,
+        "cargo": "keys"
+    },
+    {
+        "dest": "ME",
+        "weight": 54.564884610592955,
+        "stamps": 16,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "ME",
+        "weight": 18.108109602664037,
+        "stamps": 3,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CO",
+        "weight": 39.79187264955598,
+        "stamps": 3,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CA",
+        "weight": 55.57509507501417,
+        "stamps": 18,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NH",
+        "weight": 72.26511857529066,
+        "stamps": 5,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OK",
+        "weight": 15.732527661578494,
+        "stamps": 18,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CA",
+        "weight": 69.00909059694162,
+        "stamps": 19,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OR",
+        "weight": 21.56438154232649,
+        "stamps": 14,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NY",
+        "weight": 35.04327422195437,
+        "stamps": 10,
+        "cargo": "bills"
+    },
+    {
+        "dest": "ME",
+        "weight": 63.18350427483478,
+        "stamps": 20,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NV",
+        "weight": 16.823237863349757,
+        "stamps": 12,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CO",
+        "weight": 12.500085055244295,
+        "stamps": 12,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CO",
+        "weight": 53.518456765775746,
+        "stamps": 7,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OR",
+        "weight": 36.68657157893532,
+        "stamps": 7,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OR",
+        "weight": 70.00770266227158,
+        "stamps": 17,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OK",
+        "weight": 66.34608678104124,
+        "stamps": 4,
+        "cargo": "keys"
+    },
+    {
+        "dest": "ME",
+        "weight": 56.4380475166513,
+        "stamps": 0,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "WA",
+        "weight": 73.19088421928787,
+        "stamps": 2,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NV",
+        "weight": 11.376777903212664,
+        "stamps": 18,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CO",
+        "weight": 55.8740334036539,
+        "stamps": 13,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NH",
+        "weight": 31.377235435398017,
+        "stamps": 4,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OR",
+        "weight": 66.16400804868503,
+        "stamps": 2,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NY",
+        "weight": 51.875620885770594,
+        "stamps": 0,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NY",
+        "weight": 33.596926950153495,
+        "stamps": 2,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "WA",
+        "weight": 16.63330644865045,
+        "stamps": 15,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NV",
+        "weight": 10.905856827730531,
+        "stamps": 18,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "ME",
+        "weight": 43.655948160326034,
+        "stamps": 9,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CO",
+        "weight": 63.09071764381729,
+        "stamps": 15,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NY",
+        "weight": 70.20564440157035,
+        "stamps": 11,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CO",
+        "weight": 42.61123407663149,
+        "stamps": 9,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NH",
+        "weight": 74.94838726521212,
+        "stamps": 17,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "VA",
+        "weight": 59.328567256474116,
+        "stamps": 1,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "OK",
+        "weight": 53.723939537198994,
+        "stamps": 11,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "OK",
+        "weight": 10.803493681480674,
+        "stamps": 17,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CA",
+        "weight": 44.66139247538142,
+        "stamps": 10,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CO",
+        "weight": 41.48042115205328,
+        "stamps": 17,
+        "cargo": "keys"
+    },
+    {
+        "dest": "OK",
+        "weight": 59.192992382840046,
+        "stamps": 9,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NY",
+        "weight": 43.06891435031651,
+        "stamps": 1,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NV",
+        "weight": 9.033314107611904,
+        "stamps": 18,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OK",
+        "weight": 45.93219613507869,
+        "stamps": 12,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "WA",
+        "weight": 38.02595757166061,
+        "stamps": 10,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CA",
+        "weight": 70.05768693832785,
+        "stamps": 8,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OR",
+        "weight": 42.43055902091922,
+        "stamps": 16,
+        "cargo": "keys"
+    },
+    {
+        "dest": "WA",
+        "weight": 64.31836246728626,
+        "stamps": 16,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OR",
+        "weight": 0.2436487733183612,
+        "stamps": 16,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "OR",
+        "weight": 33.804764352972576,
+        "stamps": 4,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NY",
+        "weight": 14.196334602924201,
+        "stamps": 9,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NH",
+        "weight": 61.88076598939441,
+        "stamps": 17,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CA",
+        "weight": 34.49728829179091,
+        "stamps": 15,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "WA",
+        "weight": 24.563834957025566,
+        "stamps": 20,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NY",
+        "weight": 37.94318011213443,
+        "stamps": 2,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "VA",
+        "weight": 34.509358598881796,
+        "stamps": 16,
+        "cargo": "keys"
+    },
+    {
+        "dest": "VA",
+        "weight": 50.41692712271465,
+        "stamps": 11,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "CO",
+        "weight": 1.8518668757354222,
+        "stamps": 11,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CO",
+        "weight": 14.950559292514637,
+        "stamps": 19,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NV",
+        "weight": 59.00790960838041,
+        "stamps": 18,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OR",
+        "weight": 6.520254756835126,
+        "stamps": 5,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "ME",
+        "weight": 57.45680827183304,
+        "stamps": 16,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CA",
+        "weight": 47.8445150063451,
+        "stamps": 8,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "VA",
+        "weight": 30.346459272697942,
+        "stamps": 4,
+        "cargo": "keys"
+    },
+    {
+        "dest": "CA",
+        "weight": 66.60159718158616,
+        "stamps": 15,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "VA",
+        "weight": 10.229077730993774,
+        "stamps": 19,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CO",
+        "weight": 32.618051356367545,
+        "stamps": 20,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NY",
+        "weight": 61.2652830095942,
+        "stamps": 15,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "CA",
+        "weight": 53.97799386716336,
+        "stamps": 18,
+        "cargo": "letter"
+    },
+    {
+        "dest": "OR",
+        "weight": 19.28482947339976,
+        "stamps": 19,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NY",
+        "weight": 3.315152322893616,
+        "stamps": 19,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "VA",
+        "weight": 58.10524763977099,
+        "stamps": 20,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NH",
+        "weight": 54.82456880095685,
+        "stamps": 15,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OR",
+        "weight": 11.499223758564936,
+        "stamps": 9,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "ME",
+        "weight": 15.554398656118629,
+        "stamps": 4,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "CA",
+        "weight": 7.057501640552674,
+        "stamps": 5,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CA",
+        "weight": 10.990494169366624,
+        "stamps": 5,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 24.37161604125735,
+        "stamps": 8,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CA",
+        "weight": 11.949808950005558,
+        "stamps": 18,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "OK",
+        "weight": 52.22160393173317,
+        "stamps": 6,
+        "cargo": "spam"
+    },
+    {
+        "dest": "WA",
+        "weight": 72.913221756201,
+        "stamps": 15,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OK",
+        "weight": 8.214331016725177,
+        "stamps": 14,
+        "cargo": "letter"
+    },
+    {
+        "dest": "VA",
+        "weight": 18.471544597524847,
+        "stamps": 14,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CO",
+        "weight": 59.00498051909416,
+        "stamps": 18,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NV",
+        "weight": 6.5732538005341015,
+        "stamps": 16,
+        "cargo": "model"
+    },
+    {
+        "dest": "OK",
+        "weight": 48.54358823070084,
+        "stamps": 0,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "VA",
+        "weight": 2.187496240301756,
+        "stamps": 9,
+        "cargo": "model"
+    },
+    {
+        "dest": "OK",
+        "weight": 5.430396490200614,
+        "stamps": 14,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NV",
+        "weight": 32.3220129184492,
+        "stamps": 9,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "VA",
+        "weight": 18.59759554098846,
+        "stamps": 8,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 11.203860943746172,
+        "stamps": 19,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 39.170905971716856,
+        "stamps": 17,
+        "cargo": "spam"
+    },
+    {
+        "dest": "VA",
+        "weight": 62.84395629565796,
+        "stamps": 13,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OK",
+        "weight": 74.51846766814987,
+        "stamps": 3,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NV",
+        "weight": 58.86148464656094,
+        "stamps": 3,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OR",
+        "weight": 37.23210617811037,
+        "stamps": 8,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "VA",
+        "weight": 9.90513197002504,
+        "stamps": 20,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "VA",
+        "weight": 39.683983087391354,
+        "stamps": 0,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CA",
+        "weight": 64.46041935961483,
+        "stamps": 3,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "VA",
+        "weight": 67.90732046954798,
+        "stamps": 12,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NV",
+        "weight": 28.088156301450475,
+        "stamps": 5,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NV",
+        "weight": 29.59490374654478,
+        "stamps": 18,
+        "cargo": "model"
+    },
+    {
+        "dest": "ME",
+        "weight": 54.59400798985064,
+        "stamps": 3,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "CA",
+        "weight": 61.865312481218716,
+        "stamps": 4,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "WA",
+        "weight": 7.512336260355637,
+        "stamps": 10,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NV",
+        "weight": 53.67701978271687,
+        "stamps": 5,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "CA",
+        "weight": 43.48370832146572,
+        "stamps": 12,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CA",
+        "weight": 66.27649076687582,
+        "stamps": 15,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "VA",
+        "weight": 73.56480692179481,
+        "stamps": 20,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CO",
+        "weight": 64.86868834511421,
+        "stamps": 7,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NY",
+        "weight": 10.084991863593032,
+        "stamps": 3,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "ME",
+        "weight": 30.891865401054993,
+        "stamps": 11,
+        "cargo": "model"
+    },
+    {
+        "dest": "NV",
+        "weight": 74.93472210719528,
+        "stamps": 8,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NH",
+        "weight": 34.71426636894099,
+        "stamps": 15,
+        "cargo": "model"
+    },
+    {
+        "dest": "WA",
+        "weight": 1.1923410595790522,
+        "stamps": 14,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CO",
+        "weight": 14.203365720563522,
+        "stamps": 14,
+        "cargo": "letter"
+    },
+    {
+        "dest": "OK",
+        "weight": 10.272578878669664,
+        "stamps": 17,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NV",
+        "weight": 73.52128169166478,
+        "stamps": 13,
+        "cargo": "bills"
+    },
+    {
+        "dest": "OR",
+        "weight": 25.251129348263724,
+        "stamps": 3,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NH",
+        "weight": 32.64993654787281,
+        "stamps": 10,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OR",
+        "weight": 17.800900617714635,
+        "stamps": 20,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "ME",
+        "weight": 17.72677638092049,
+        "stamps": 16,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OR",
+        "weight": 7.234387074857795,
+        "stamps": 9,
+        "cargo": "model"
+    },
+    {
+        "dest": "CA",
+        "weight": 2.4130578732701133,
+        "stamps": 1,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "ME",
+        "weight": 38.27023069697697,
+        "stamps": 18,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NV",
+        "weight": 37.12943623022987,
+        "stamps": 12,
+        "cargo": "spam"
+    },
+    {
+        "dest": "WA",
+        "weight": 60.399621026234726,
+        "stamps": 20,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NV",
+        "weight": 14.743465056500629,
+        "stamps": 14,
+        "cargo": "keys"
+    },
+    {
+        "dest": "ME",
+        "weight": 50.16774896277661,
+        "stamps": 2,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "OR",
+        "weight": 54.02270358627423,
+        "stamps": 16,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "VA",
+        "weight": 20.150096502758863,
+        "stamps": 0,
+        "cargo": "letter"
+    },
+    {
+        "dest": "CA",
+        "weight": 68.1994799576444,
+        "stamps": 6,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OR",
+        "weight": 66.64446765747766,
+        "stamps": 12,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NY",
+        "weight": 32.03531522001775,
+        "stamps": 20,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OK",
+        "weight": 69.26928975314924,
+        "stamps": 9,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CO",
+        "weight": 74.64185479477523,
+        "stamps": 1,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NY",
+        "weight": 31.81914274564928,
+        "stamps": 5,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CO",
+        "weight": 15.720792852563752,
+        "stamps": 4,
+        "cargo": "model"
+    },
+    {
+        "dest": "WA",
+        "weight": 48.500036701556276,
+        "stamps": 10,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NY",
+        "weight": 70.2252512807695,
+        "stamps": 19,
+        "cargo": "bills"
+    },
+    {
+        "dest": "VA",
+        "weight": 46.3796996054235,
+        "stamps": 5,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "ME",
+        "weight": 66.1173747850897,
+        "stamps": 11,
+        "cargo": "keys"
+    },
+    {
+        "dest": "OR",
+        "weight": 31.79300956955813,
+        "stamps": 7,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NV",
+        "weight": 62.02839991725596,
+        "stamps": 3,
+        "cargo": "model"
+    },
+    {
+        "dest": "ME",
+        "weight": 70.05673727920252,
+        "stamps": 19,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NV",
+        "weight": 72.05013137881033,
+        "stamps": 17,
+        "cargo": "keys"
+    },
+    {
+        "dest": "CO",
+        "weight": 10.189879561430825,
+        "stamps": 2,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NH",
+        "weight": 68.98377885415398,
+        "stamps": 13,
+        "cargo": "letter"
+    },
+    {
+        "dest": "OK",
+        "weight": 3.1804361007685467,
+        "stamps": 3,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NV",
+        "weight": 53.3824554499879,
+        "stamps": 6,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NH",
+        "weight": 8.388047622213168,
+        "stamps": 20,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "CA",
+        "weight": 68.93447663603214,
+        "stamps": 19,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NY",
+        "weight": 26.85945467105343,
+        "stamps": 13,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OR",
+        "weight": 61.35433428845178,
+        "stamps": 20,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NV",
+        "weight": 60.84543403870378,
+        "stamps": 19,
+        "cargo": "model"
+    },
+    {
+        "dest": "CO",
+        "weight": 16.399201083964506,
+        "stamps": 0,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NV",
+        "weight": 74.06486239205816,
+        "stamps": 5,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NV",
+        "weight": 43.64745110416758,
+        "stamps": 8,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "ME",
+        "weight": 4.244065333730268,
+        "stamps": 16,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NV",
+        "weight": 4.679061950283731,
+        "stamps": 3,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NH",
+        "weight": 26.904755163181616,
+        "stamps": 9,
+        "cargo": "model"
+    },
+    {
+        "dest": "NV",
+        "weight": 34.27693423527943,
+        "stamps": 10,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NV",
+        "weight": 46.875560530280055,
+        "stamps": 9,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OK",
+        "weight": 23.830341472351517,
+        "stamps": 7,
+        "cargo": "keys"
+    },
+    {
+        "dest": "CO",
+        "weight": 42.22806482108741,
+        "stamps": 9,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NY",
+        "weight": 42.71560909917039,
+        "stamps": 15,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 26.803877767917015,
+        "stamps": 13,
+        "cargo": "letter"
+    },
+    {
+        "dest": "OR",
+        "weight": 57.57495406489503,
+        "stamps": 18,
+        "cargo": "keys"
+    },
+    {
+        "dest": "OR",
+        "weight": 38.67071964318143,
+        "stamps": 18,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NH",
+        "weight": 35.15868556061258,
+        "stamps": 14,
+        "cargo": "keys"
+    },
+    {
+        "dest": "OR",
+        "weight": 22.86103523676947,
+        "stamps": 2,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CO",
+        "weight": 11.034285133119567,
+        "stamps": 16,
+        "cargo": "keys"
+    },
+    {
+        "dest": "CA",
+        "weight": 38.08084797131702,
+        "stamps": 2,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "ME",
+        "weight": 34.44834352222508,
+        "stamps": 12,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NH",
+        "weight": 47.77738516582885,
+        "stamps": 15,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "ME",
+        "weight": 8.790494711944532,
+        "stamps": 9,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "WA",
+        "weight": 47.82685203705368,
+        "stamps": 1,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "VA",
+        "weight": 53.48457061591973,
+        "stamps": 3,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CA",
+        "weight": 47.8331807559766,
+        "stamps": 4,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "ME",
+        "weight": 23.33047485076258,
+        "stamps": 15,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "WA",
+        "weight": 62.28267154105594,
+        "stamps": 1,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NV",
+        "weight": 55.008049542632605,
+        "stamps": 11,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "ME",
+        "weight": 72.99021460280345,
+        "stamps": 20,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "OR",
+        "weight": 46.505482128903715,
+        "stamps": 10,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OK",
+        "weight": 61.368640361486975,
+        "stamps": 12,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "WA",
+        "weight": 27.054390305430253,
+        "stamps": 3,
+        "cargo": "letter"
+    },
+    {
+        "dest": "OR",
+        "weight": 18.00943435297249,
+        "stamps": 7,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "ME",
+        "weight": 70.30939230805669,
+        "stamps": 15,
+        "cargo": "keys"
+    },
+    {
+        "dest": "OK",
+        "weight": 27.871756088563203,
+        "stamps": 17,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "ME",
+        "weight": 1.8471484166871333,
+        "stamps": 14,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "ME",
+        "weight": 73.71430669195284,
+        "stamps": 12,
+        "cargo": "letter"
+    },
+    {
+        "dest": "CA",
+        "weight": 59.62662737124106,
+        "stamps": 12,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "ME",
+        "weight": 9.458230749959734,
+        "stamps": 7,
+        "cargo": "letter"
+    },
+    {
+        "dest": "CO",
+        "weight": 10.475479584373943,
+        "stamps": 14,
+        "cargo": "model"
+    },
+    {
+        "dest": "OR",
+        "weight": 18.595857255840272,
+        "stamps": 10,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "CA",
+        "weight": 54.921222605545374,
+        "stamps": 2,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CO",
+        "weight": 1.5869061715449662,
+        "stamps": 9,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "CO",
+        "weight": 4.031757934705727,
+        "stamps": 2,
+        "cargo": "bills"
+    },
+    {
+        "dest": "OR",
+        "weight": 33.875895933313615,
+        "stamps": 16,
+        "cargo": "letter"
+    },
+    {
+        "dest": "OK",
+        "weight": 42.35375150951747,
+        "stamps": 2,
+        "cargo": "keys"
+    },
+    {
+        "dest": "OR",
+        "weight": 36.37554890513899,
+        "stamps": 0,
+        "cargo": "model"
+    },
+    {
+        "dest": "ME",
+        "weight": 62.42965568419148,
+        "stamps": 18,
+        "cargo": "model"
+    },
+    {
+        "dest": "VA",
+        "weight": 9.233341107119985,
+        "stamps": 19,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CA",
+        "weight": 4.665703926960066,
+        "stamps": 8,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "WA",
+        "weight": 27.079553190459,
+        "stamps": 17,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OR",
+        "weight": 36.52099215762831,
+        "stamps": 5,
+        "cargo": "bills"
+    },
+    {
+        "dest": "OK",
+        "weight": 63.98129951245419,
+        "stamps": 9,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "ME",
+        "weight": 42.79269569670566,
+        "stamps": 18,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "VA",
+        "weight": 66.51881322123201,
+        "stamps": 3,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NV",
+        "weight": 71.06351215413653,
+        "stamps": 9,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NH",
+        "weight": 65.21707455986157,
+        "stamps": 11,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "WA",
+        "weight": 63.62859384119763,
+        "stamps": 6,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NH",
+        "weight": 23.063001053899413,
+        "stamps": 10,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CA",
+        "weight": 20.48467784527503,
+        "stamps": 3,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NY",
+        "weight": 5.522298809400053,
+        "stamps": 2,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "WA",
+        "weight": 16.089236559745704,
+        "stamps": 15,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "CA",
+        "weight": 71.554622635708,
+        "stamps": 5,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "WA",
+        "weight": 2.104971149796983,
+        "stamps": 3,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NV",
+        "weight": 20.54619649233124,
+        "stamps": 10,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CO",
+        "weight": 34.686876737191106,
+        "stamps": 0,
+        "cargo": "letter"
+    },
+    {
+        "dest": "CA",
+        "weight": 67.5208378714081,
+        "stamps": 9,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NY",
+        "weight": 63.395037729218664,
+        "stamps": 3,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CA",
+        "weight": 30.859860396634414,
+        "stamps": 20,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NY",
+        "weight": 22.464821783104675,
+        "stamps": 6,
+        "cargo": "letter"
+    },
+    {
+        "dest": "CA",
+        "weight": 21.986061337714847,
+        "stamps": 0,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "OR",
+        "weight": 24.982341282360647,
+        "stamps": 9,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "OK",
+        "weight": 21.09934859319799,
+        "stamps": 16,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NY",
+        "weight": 35.50509918388044,
+        "stamps": 7,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CA",
+        "weight": 18.640062944473488,
+        "stamps": 15,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "OR",
+        "weight": 72.34217676870618,
+        "stamps": 11,
+        "cargo": "letter"
+    },
+    {
+        "dest": "CA",
+        "weight": 63.023560085488604,
+        "stamps": 8,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NY",
+        "weight": 44.392031679702185,
+        "stamps": 19,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OR",
+        "weight": 11.56163032341303,
+        "stamps": 2,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CO",
+        "weight": 15.721116246426933,
+        "stamps": 4,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NH",
+        "weight": 16.694422527781757,
+        "stamps": 13,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 8.201390316583382,
+        "stamps": 14,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NY",
+        "weight": 32.30602909946056,
+        "stamps": 20,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NY",
+        "weight": 4.472016470341936,
+        "stamps": 10,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "VA",
+        "weight": 0.6443603011502791,
+        "stamps": 13,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "VA",
+        "weight": 6.797115176362345,
+        "stamps": 15,
+        "cargo": "keys"
+    },
+    {
+        "dest": "OR",
+        "weight": 51.483421707229645,
+        "stamps": 19,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NV",
+        "weight": 22.474388889093177,
+        "stamps": 3,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NY",
+        "weight": 11.677685776159452,
+        "stamps": 15,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "VA",
+        "weight": 62.95761313314736,
+        "stamps": 0,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NV",
+        "weight": 5.854838445389465,
+        "stamps": 6,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "WA",
+        "weight": 52.065785463749634,
+        "stamps": 16,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OK",
+        "weight": 64.01730141914116,
+        "stamps": 4,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NH",
+        "weight": 20.539449692304125,
+        "stamps": 11,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NH",
+        "weight": 4.709107507847107,
+        "stamps": 5,
+        "cargo": "letter"
+    },
+    {
+        "dest": "VA",
+        "weight": 3.1418726852269763,
+        "stamps": 14,
+        "cargo": "model"
+    },
+    {
+        "dest": "VA",
+        "weight": 7.894180749309668,
+        "stamps": 19,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "VA",
+        "weight": 64.65896912603347,
+        "stamps": 18,
+        "cargo": "spam"
+    },
+    {
+        "dest": "ME",
+        "weight": 31.948705441599493,
+        "stamps": 5,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CO",
+        "weight": 9.979663328663706,
+        "stamps": 5,
+        "cargo": "model"
+    },
+    {
+        "dest": "NV",
+        "weight": 22.96974155120493,
+        "stamps": 13,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "ME",
+        "weight": 22.468669045270705,
+        "stamps": 12,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NY",
+        "weight": 27.063898041595124,
+        "stamps": 3,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "VA",
+        "weight": 18.94498035304888,
+        "stamps": 7,
+        "cargo": "spam"
+    },
+    {
+        "dest": "ME",
+        "weight": 25.350264218958376,
+        "stamps": 2,
+        "cargo": "model"
+    },
+    {
+        "dest": "NH",
+        "weight": 20.04183465528625,
+        "stamps": 19,
+        "cargo": "letter"
+    },
+    {
+        "dest": "OK",
+        "weight": 11.302777656020305,
+        "stamps": 16,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OR",
+        "weight": 16.642985399604044,
+        "stamps": 0,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NY",
+        "weight": 5.451712777452999,
+        "stamps": 4,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OK",
+        "weight": 4.600775284154151,
+        "stamps": 16,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "ME",
+        "weight": 63.553497403924055,
+        "stamps": 3,
+        "cargo": "bills"
+    },
+    {
+        "dest": "ME",
+        "weight": 63.600160427358446,
+        "stamps": 11,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "WA",
+        "weight": 57.70581603905918,
+        "stamps": 8,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "WA",
+        "weight": 55.88748934047749,
+        "stamps": 6,
+        "cargo": "model"
+    },
+    {
+        "dest": "ME",
+        "weight": 65.44174835445743,
+        "stamps": 4,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NY",
+        "weight": 10.323988898142089,
+        "stamps": 6,
+        "cargo": "bills"
+    },
+    {
+        "dest": "OR",
+        "weight": 40.693451848546616,
+        "stamps": 9,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OK",
+        "weight": 60.694393519718254,
+        "stamps": 14,
+        "cargo": "letter"
+    },
+    {
+        "dest": "OK",
+        "weight": 21.132838224993268,
+        "stamps": 16,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NH",
+        "weight": 52.795497785211445,
+        "stamps": 4,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NH",
+        "weight": 42.65039299076216,
+        "stamps": 14,
+        "cargo": "letter"
+    },
+    {
+        "dest": "OK",
+        "weight": 47.012819946686236,
+        "stamps": 17,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "CA",
+        "weight": 74.69798013765802,
+        "stamps": 16,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NV",
+        "weight": 49.10462071651214,
+        "stamps": 12,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "ME",
+        "weight": 7.201137404215236,
+        "stamps": 11,
+        "cargo": "model"
+    },
+    {
+        "dest": "NY",
+        "weight": 64.22099271850703,
+        "stamps": 1,
+        "cargo": "keys"
+    },
+    {
+        "dest": "WA",
+        "weight": 60.50874495436767,
+        "stamps": 18,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NH",
+        "weight": 20.029128959599717,
+        "stamps": 9,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "OK",
+        "weight": 17.520881776053102,
+        "stamps": 11,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NY",
+        "weight": 45.02285610327993,
+        "stamps": 6,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 43.27521058744299,
+        "stamps": 0,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NH",
+        "weight": 26.137943770717825,
+        "stamps": 17,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "WA",
+        "weight": 50.72678611931063,
+        "stamps": 18,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CA",
+        "weight": 49.07123916872924,
+        "stamps": 20,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "OK",
+        "weight": 23.881901993679662,
+        "stamps": 20,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NH",
+        "weight": 33.44724342911122,
+        "stamps": 20,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CO",
+        "weight": 33.464092526120076,
+        "stamps": 14,
+        "cargo": "keys"
+    },
+    {
+        "dest": "ME",
+        "weight": 45.41501069775961,
+        "stamps": 1,
+        "cargo": "keys"
+    },
+    {
+        "dest": "OK",
+        "weight": 10.27822565183731,
+        "stamps": 11,
+        "cargo": "model"
+    },
+    {
+        "dest": "NH",
+        "weight": 15.320481129347275,
+        "stamps": 6,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CA",
+        "weight": 18.612745008183065,
+        "stamps": 3,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NH",
+        "weight": 51.015297099534315,
+        "stamps": 8,
+        "cargo": "letter"
+    },
+    {
+        "dest": "ME",
+        "weight": 14.110585456932837,
+        "stamps": 2,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "ME",
+        "weight": 31.557141640606403,
+        "stamps": 15,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "ME",
+        "weight": 68.8037042323227,
+        "stamps": 6,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NH",
+        "weight": 57.04940636656627,
+        "stamps": 11,
+        "cargo": "model"
+    },
+    {
+        "dest": "OR",
+        "weight": 22.887641981269876,
+        "stamps": 10,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NH",
+        "weight": 14.245301600390425,
+        "stamps": 5,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "ME",
+        "weight": 64.8437738141745,
+        "stamps": 11,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OR",
+        "weight": 30.453823912171792,
+        "stamps": 0,
+        "cargo": "model"
+    },
+    {
+        "dest": "ME",
+        "weight": 19.398169954661935,
+        "stamps": 5,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NY",
+        "weight": 61.0631450984695,
+        "stamps": 18,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CO",
+        "weight": 69.64231619602785,
+        "stamps": 13,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "ME",
+        "weight": 30.301723665664834,
+        "stamps": 17,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OK",
+        "weight": 63.69463332159505,
+        "stamps": 12,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NH",
+        "weight": 57.24914316756627,
+        "stamps": 7,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NY",
+        "weight": 73.39093060977524,
+        "stamps": 9,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "CO",
+        "weight": 44.49854282999567,
+        "stamps": 5,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "WA",
+        "weight": 9.361522352190669,
+        "stamps": 10,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OK",
+        "weight": 57.67045330577002,
+        "stamps": 0,
+        "cargo": "model"
+    },
+    {
+        "dest": "WA",
+        "weight": 34.25918076295623,
+        "stamps": 11,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OK",
+        "weight": 53.309617703717244,
+        "stamps": 16,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OK",
+        "weight": 3.533906889547231,
+        "stamps": 6,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OK",
+        "weight": 18.992344769037363,
+        "stamps": 15,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "WA",
+        "weight": 45.8485209022987,
+        "stamps": 14,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CO",
+        "weight": 4.6433154896853015,
+        "stamps": 4,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "VA",
+        "weight": 69.22468259688725,
+        "stamps": 5,
+        "cargo": "spam"
+    },
+    {
+        "dest": "ME",
+        "weight": 35.195028159733994,
+        "stamps": 19,
+        "cargo": "keys"
+    },
+    {
+        "dest": "CA",
+        "weight": 19.126927360553914,
+        "stamps": 18,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "VA",
+        "weight": 60.89031172438541,
+        "stamps": 13,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CO",
+        "weight": 11.889224503784746,
+        "stamps": 8,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "OR",
+        "weight": 25.504373697974714,
+        "stamps": 12,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NV",
+        "weight": 42.977831733215446,
+        "stamps": 0,
+        "cargo": "bills"
+    },
+    {
+        "dest": "WA",
+        "weight": 54.54641210430841,
+        "stamps": 12,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "OK",
+        "weight": 51.44689785226413,
+        "stamps": 9,
+        "cargo": "model"
+    },
+    {
+        "dest": "NV",
+        "weight": 41.273375151556216,
+        "stamps": 7,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CO",
+        "weight": 25.182312301739273,
+        "stamps": 13,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CO",
+        "weight": 72.84726463776553,
+        "stamps": 14,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NY",
+        "weight": 35.3492771553773,
+        "stamps": 19,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NH",
+        "weight": 28.70313105400541,
+        "stamps": 0,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "VA",
+        "weight": 24.788727775307397,
+        "stamps": 10,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NV",
+        "weight": 46.457334927995795,
+        "stamps": 15,
+        "cargo": "bills"
+    },
+    {
+        "dest": "VA",
+        "weight": 25.180507636533665,
+        "stamps": 4,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "OR",
+        "weight": 30.52510292097462,
+        "stamps": 0,
+        "cargo": "letter"
+    },
+    {
+        "dest": "ME",
+        "weight": 61.55547961069986,
+        "stamps": 7,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NV",
+        "weight": 70.90625787957674,
+        "stamps": 17,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NH",
+        "weight": 72.80235256958116,
+        "stamps": 6,
+        "cargo": "letter"
+    },
+    {
+        "dest": "VA",
+        "weight": 17.00376030349011,
+        "stamps": 19,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CA",
+        "weight": 66.77648577198745,
+        "stamps": 19,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CA",
+        "weight": 5.561854786516871,
+        "stamps": 5,
+        "cargo": "spam"
+    },
+    {
+        "dest": "VA",
+        "weight": 22.031589900252584,
+        "stamps": 15,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NY",
+        "weight": 26.49826381405091,
+        "stamps": 16,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NV",
+        "weight": 45.56054742090188,
+        "stamps": 20,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NV",
+        "weight": 63.153401631576486,
+        "stamps": 15,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CO",
+        "weight": 14.667124326393477,
+        "stamps": 6,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OR",
+        "weight": 26.50300411762111,
+        "stamps": 13,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "OR",
+        "weight": 3.597737639971055,
+        "stamps": 9,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CA",
+        "weight": 40.1068906239172,
+        "stamps": 3,
+        "cargo": "spam"
+    },
+    {
+        "dest": "ME",
+        "weight": 49.619970311118244,
+        "stamps": 9,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "OK",
+        "weight": 39.396304435757074,
+        "stamps": 17,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CO",
+        "weight": 12.70896603601128,
+        "stamps": 9,
+        "cargo": "bills"
+    },
+    {
+        "dest": "OK",
+        "weight": 40.08300826373231,
+        "stamps": 15,
+        "cargo": "spam"
+    },
+    {
+        "dest": "WA",
+        "weight": 37.643438346036966,
+        "stamps": 3,
+        "cargo": "bills"
+    },
+    {
+        "dest": "ME",
+        "weight": 2.309444988523035,
+        "stamps": 14,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NV",
+        "weight": 62.46180044736773,
+        "stamps": 16,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CA",
+        "weight": 71.4698168826882,
+        "stamps": 3,
+        "cargo": "model"
+    },
+    {
+        "dest": "CA",
+        "weight": 9.677923392729367,
+        "stamps": 15,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "WA",
+        "weight": 63.03239398357611,
+        "stamps": 0,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "VA",
+        "weight": 12.707402622941459,
+        "stamps": 1,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "CA",
+        "weight": 17.57457528059446,
+        "stamps": 3,
+        "cargo": "model"
+    },
+    {
+        "dest": "WA",
+        "weight": 11.658872239528856,
+        "stamps": 1,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CO",
+        "weight": 16.25453806445784,
+        "stamps": 19,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CO",
+        "weight": 17.8029389339086,
+        "stamps": 4,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "WA",
+        "weight": 43.62558750162388,
+        "stamps": 11,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CO",
+        "weight": 36.11451929988952,
+        "stamps": 4,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NV",
+        "weight": 35.58833772275612,
+        "stamps": 13,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NV",
+        "weight": 3.7827496933067972,
+        "stamps": 6,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CA",
+        "weight": 50.66560897953893,
+        "stamps": 18,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NY",
+        "weight": 40.40451031094982,
+        "stamps": 10,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NY",
+        "weight": 1.9306166908546196,
+        "stamps": 15,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "WA",
+        "weight": 4.7784881779988355,
+        "stamps": 19,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NY",
+        "weight": 50.157707723515045,
+        "stamps": 18,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CA",
+        "weight": 6.284892383694574,
+        "stamps": 13,
+        "cargo": "model"
+    },
+    {
+        "dest": "WA",
+        "weight": 48.28752847725329,
+        "stamps": 10,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CO",
+        "weight": 59.870696221534836,
+        "stamps": 9,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "CO",
+        "weight": 26.824183284524068,
+        "stamps": 7,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OR",
+        "weight": 29.648233147509043,
+        "stamps": 4,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NH",
+        "weight": 66.74085147658855,
+        "stamps": 10,
+        "cargo": "model"
+    },
+    {
+        "dest": "OR",
+        "weight": 68.29267906268899,
+        "stamps": 19,
+        "cargo": "spam"
+    },
+    {
+        "dest": "WA",
+        "weight": 34.65435057879825,
+        "stamps": 7,
+        "cargo": "bills"
+    },
+    {
+        "dest": "ME",
+        "weight": 28.976375430420457,
+        "stamps": 3,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NH",
+        "weight": 25.939025989147517,
+        "stamps": 3,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "WA",
+        "weight": 55.06742610212701,
+        "stamps": 2,
+        "cargo": "keys"
+    },
+    {
+        "dest": "NV",
+        "weight": 40.11453548869872,
+        "stamps": 8,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "WA",
+        "weight": 29.63009064954911,
+        "stamps": 14,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NH",
+        "weight": 18.7758673250849,
+        "stamps": 6,
+        "cargo": "bills"
+    },
+    {
+        "dest": "WA",
+        "weight": 41.96857155112523,
+        "stamps": 3,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "ME",
+        "weight": 50.974974940916525,
+        "stamps": 12,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CO",
+        "weight": 64.57598105008155,
+        "stamps": 13,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NH",
+        "weight": 70.65870854167434,
+        "stamps": 15,
+        "cargo": "keys"
+    },
+    {
+        "dest": "CA",
+        "weight": 55.73974704522369,
+        "stamps": 5,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "CO",
+        "weight": 25.326412400908314,
+        "stamps": 11,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NV",
+        "weight": 7.970496239954642,
+        "stamps": 6,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NY",
+        "weight": 1.4447962459595258,
+        "stamps": 2,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "ME",
+        "weight": 36.52350592839125,
+        "stamps": 16,
+        "cargo": "keys"
+    },
+    {
+        "dest": "WA",
+        "weight": 10.557390287458643,
+        "stamps": 15,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NH",
+        "weight": 50.71473771519195,
+        "stamps": 3,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NV",
+        "weight": 2.789995504318607,
+        "stamps": 12,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NY",
+        "weight": 29.412231052199612,
+        "stamps": 8,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CA",
+        "weight": 35.09629986097952,
+        "stamps": 9,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "WA",
+        "weight": 21.792825201464023,
+        "stamps": 18,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CO",
+        "weight": 46.282874750974436,
+        "stamps": 15,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NV",
+        "weight": 28.177563492242157,
+        "stamps": 19,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NY",
+        "weight": 47.93552218798447,
+        "stamps": 12,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NH",
+        "weight": 25.515318177933715,
+        "stamps": 14,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OK",
+        "weight": 16.671625868976047,
+        "stamps": 6,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CO",
+        "weight": 66.33913817095674,
+        "stamps": 14,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "OR",
+        "weight": 9.881841250523236,
+        "stamps": 1,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OK",
+        "weight": 38.66522609713905,
+        "stamps": 2,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NY",
+        "weight": 8.177992651821928,
+        "stamps": 20,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "VA",
+        "weight": 66.65486642129832,
+        "stamps": 8,
+        "cargo": "model"
+    },
+    {
+        "dest": "CA",
+        "weight": 3.7408435961321125,
+        "stamps": 0,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CA",
+        "weight": 70.75796580903132,
+        "stamps": 2,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "WA",
+        "weight": 56.69491428283696,
+        "stamps": 12,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OR",
+        "weight": 7.470882705173223,
+        "stamps": 10,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CO",
+        "weight": 11.129906797886205,
+        "stamps": 19,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CO",
+        "weight": 50.1400247387565,
+        "stamps": 4,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "VA",
+        "weight": 6.644295741215187,
+        "stamps": 0,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CA",
+        "weight": 65.59099338682576,
+        "stamps": 19,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NY",
+        "weight": 55.75005054166398,
+        "stamps": 20,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CO",
+        "weight": 10.338181488113769,
+        "stamps": 0,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NH",
+        "weight": 44.6023807443185,
+        "stamps": 19,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "WA",
+        "weight": 40.17327892607219,
+        "stamps": 12,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 15.671331034426201,
+        "stamps": 6,
+        "cargo": "model"
+    },
+    {
+        "dest": "ME",
+        "weight": 44.07337808143229,
+        "stamps": 8,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "ME",
+        "weight": 53.98567108207775,
+        "stamps": 8,
+        "cargo": "spam"
+    },
+    {
+        "dest": "WA",
+        "weight": 73.9977126202189,
+        "stamps": 5,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "ME",
+        "weight": 7.871284159078066,
+        "stamps": 4,
+        "cargo": "letter"
+    },
+    {
+        "dest": "NY",
+        "weight": 69.96774149906582,
+        "stamps": 19,
+        "cargo": "letter"
+    },
+    {
+        "dest": "CA",
+        "weight": 16.445453759452143,
+        "stamps": 4,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "ME",
+        "weight": 63.47420521076598,
+        "stamps": 19,
+        "cargo": "keys"
+    },
+    {
+        "dest": "OR",
+        "weight": 15.323576001376319,
+        "stamps": 1,
+        "cargo": "model"
+    },
+    {
+        "dest": "OR",
+        "weight": 20.424538097580104,
+        "stamps": 19,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 24.591742051156036,
+        "stamps": 20,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CO",
+        "weight": 74.37347511892273,
+        "stamps": 1,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "VA",
+        "weight": 14.57861620917032,
+        "stamps": 15,
+        "cargo": "keys"
+    },
+    {
+        "dest": "WA",
+        "weight": 47.39781494053397,
+        "stamps": 1,
+        "cargo": "keys"
+    },
+    {
+        "dest": "OR",
+        "weight": 45.27011393504387,
+        "stamps": 13,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 40.42011587960927,
+        "stamps": 5,
+        "cargo": "bills"
+    },
+    {
+        "dest": "CA",
+        "weight": 42.40997489824195,
+        "stamps": 7,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "OK",
+        "weight": 22.339992287596512,
+        "stamps": 8,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "OK",
+        "weight": 24.58818106007078,
+        "stamps": 14,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NY",
+        "weight": 60.72640883835698,
+        "stamps": 10,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "NY",
+        "weight": 60.58555317414626,
+        "stamps": 18,
+        "cargo": "letter"
+    },
+    {
+        "dest": "WA",
+        "weight": 27.42476253753969,
+        "stamps": 8,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "ME",
+        "weight": 57.77503630211709,
+        "stamps": 7,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NV",
+        "weight": 58.4516538391053,
+        "stamps": 4,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "WA",
+        "weight": 0.8650993968071896,
+        "stamps": 1,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "NV",
+        "weight": 44.266385709397916,
+        "stamps": 19,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "CA",
+        "weight": 12.765687867484383,
+        "stamps": 8,
+        "cargo": "model"
+    },
+    {
+        "dest": "VA",
+        "weight": 39.98634980979158,
+        "stamps": 1,
+        "cargo": "keys"
+    },
+    {
+        "dest": "CA",
+        "weight": 33.536378624415065,
+        "stamps": 20,
+        "cargo": "model"
+    },
+    {
+        "dest": "NY",
+        "weight": 38.54679182858539,
+        "stamps": 12,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "OR",
+        "weight": 31.424043538869224,
+        "stamps": 4,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CO",
+        "weight": 5.739539320917286,
+        "stamps": 10,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "NV",
+        "weight": 42.43033988253061,
+        "stamps": 8,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "WA",
+        "weight": 35.74701531409788,
+        "stamps": 2,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OR",
+        "weight": 41.32667170672384,
+        "stamps": 13,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "WA",
+        "weight": 55.14686120374914,
+        "stamps": 18,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "VA",
+        "weight": 31.07699538030747,
+        "stamps": 12,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NY",
+        "weight": 50.73059656867778,
+        "stamps": 5,
+        "cargo": "bills"
+    },
+    {
+        "dest": "VA",
+        "weight": 48.91602993913905,
+        "stamps": 10,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "VA",
+        "weight": 3.751188411804102,
+        "stamps": 9,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "CA",
+        "weight": 4.641643631966552,
+        "stamps": 5,
+        "cargo": "letter"
+    },
+    {
+        "dest": "CA",
+        "weight": 62.60842439809134,
+        "stamps": 5,
+        "cargo": "bills"
+    },
+    {
+        "dest": "ME",
+        "weight": 57.41832846649227,
+        "stamps": 7,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "ME",
+        "weight": 67.25038648264135,
+        "stamps": 18,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "ME",
+        "weight": 21.381298194987735,
+        "stamps": 4,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "CA",
+        "weight": 9.384317111839596,
+        "stamps": 2,
+        "cargo": "bills"
+    },
+    {
+        "dest": "WA",
+        "weight": 13.161076798213244,
+        "stamps": 15,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "VA",
+        "weight": 58.428307923862526,
+        "stamps": 5,
+        "cargo": "letter"
+    },
+    {
+        "dest": "OK",
+        "weight": 61.02916767556713,
+        "stamps": 6,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OK",
+        "weight": 45.10103554515232,
+        "stamps": 10,
+        "cargo": "model"
+    },
+    {
+        "dest": "CO",
+        "weight": 70.08820499176059,
+        "stamps": 5,
+        "cargo": "model"
+    },
+    {
+        "dest": "OR",
+        "weight": 30.37612437803114,
+        "stamps": 7,
+        "cargo": "model"
+    },
+    {
+        "dest": "CA",
+        "weight": 24.419583213119367,
+        "stamps": 11,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NH",
+        "weight": 8.941364724963426,
+        "stamps": 9,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CA",
+        "weight": 73.88767371275205,
+        "stamps": 0,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NV",
+        "weight": 51.86692788283877,
+        "stamps": 10,
+        "cargo": "keys"
+    },
+    {
+        "dest": "CA",
+        "weight": 71.9345704737027,
+        "stamps": 13,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "VA",
+        "weight": 15.273423753724346,
+        "stamps": 15,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "OK",
+        "weight": 1.098962763410019,
+        "stamps": 5,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NH",
+        "weight": 66.0990784867067,
+        "stamps": 1,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "NH",
+        "weight": 44.45901453185536,
+        "stamps": 15,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NY",
+        "weight": 5.820141964499764,
+        "stamps": 16,
+        "cargo": "model"
+    },
+    {
+        "dest": "NH",
+        "weight": 2.983307596615728,
+        "stamps": 7,
+        "cargo": "model"
+    },
+    {
+        "dest": "OR",
+        "weight": 18.675259592008473,
+        "stamps": 7,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "WA",
+        "weight": 47.940615378659515,
+        "stamps": 5,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "OR",
+        "weight": 9.490005609992815,
+        "stamps": 10,
+        "cargo": "spam"
+    },
+    {
+        "dest": "CA",
+        "weight": 6.137918519626728,
+        "stamps": 11,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "OK",
+        "weight": 8.609499542936593,
+        "stamps": 12,
+        "cargo": "pillow"
+    },
+    {
+        "dest": "CA",
+        "weight": 46.737684920381476,
+        "stamps": 5,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "WA",
+        "weight": 38.9054495049705,
+        "stamps": 3,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "OK",
+        "weight": 15.965817395038645,
+        "stamps": 12,
+        "cargo": "stickers"
+    },
+    {
+        "dest": "CO",
+        "weight": 6.553249095804955,
+        "stamps": 13,
+        "cargo": "model"
+    },
+    {
+        "dest": "NH",
+        "weight": 28.61773442587974,
+        "stamps": 6,
+        "cargo": "letter"
+    },
+    {
+        "dest": "VA",
+        "weight": 14.735812910425599,
+        "stamps": 8,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "CA",
+        "weight": 28.486130710493487,
+        "stamps": 16,
+        "cargo": "model"
+    },
+    {
+        "dest": "NY",
+        "weight": 44.72813583384756,
+        "stamps": 5,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "OR",
+        "weight": 53.00808327012744,
+        "stamps": 14,
+        "cargo": "keys"
+    },
+    {
+        "dest": "VA",
+        "weight": 25.983573633361743,
+        "stamps": 9,
+        "cargo": "model"
+    },
+    {
+        "dest": "NH",
+        "weight": 19.60052372352001,
+        "stamps": 2,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NY",
+        "weight": 2.511568513634907,
+        "stamps": 8,
+        "cargo": "bills"
+    },
+    {
+        "dest": "ME",
+        "weight": 21.36586268315728,
+        "stamps": 10,
+        "cargo": "bills"
+    },
+    {
+        "dest": "NH",
+        "weight": 26.833974470458948,
+        "stamps": 7,
+        "cargo": "keys"
+    },
+    {
+        "dest": "ME",
+        "weight": 58.869824689098174,
+        "stamps": 10,
+        "cargo": "spam"
+    },
+    {
+        "dest": "NH",
+        "weight": 73.91270386445318,
+        "stamps": 13,
+        "cargo": "meal prep"
+    },
+    {
+        "dest": "OK",
+        "weight": 47.3180118691732,
+        "stamps": 0,
+        "cargo": "spam"
+    },
+    {
+        "dest": "OK",
+        "weight": 19.08757423540511,
+        "stamps": 3,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NV",
+        "weight": 33.29525446606775,
+        "stamps": 0,
+        "cargo": "letter"
+    },
+    {
+        "dest": "CO",
+        "weight": 1.6447626007526832,
+        "stamps": 17,
+        "cargo": "hardware"
+    },
+    {
+        "dest": "NY",
+        "weight": 19.127403949830647,
+        "stamps": 12,
+        "cargo": "alcohol"
+    },
+    {
+        "dest": "CA",
+        "weight": 14.514898482076433,
+        "stamps": 9,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "NY",
+        "weight": 35.90681387611192,
+        "stamps": 15,
+        "cargo": "cannabis"
+    },
+    {
+        "dest": "OR",
+        "weight": 52.387361535375234,
+        "stamps": 19,
+        "cargo": "stickers"
+    }
+]

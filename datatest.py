@@ -1,15 +1,13 @@
 import data
 import json
 
-with open('tileset.json') as tileset_json:
-    tileset = json.load(tileset_json)
+D = data.init('tile.json', 'tileset.json')
 
-with open('tile.json') as tile_json:
-    tile = json.load(tile_json)
+D.getTileSet("tileset2")
 
-mainData = data.DataStorage(tileset)
+# mainData = data.DataStorage(tileset)
 
-mainData.addTileSet("StarWars", ['ObiWan', 'Luke', 'Darth Vader'])
+# mainData.addTileSet("StarWars", ['ObiWan', 'Luke', 'Darth Vader'])
 
 # TestTileSet = data.TileSet("TestID", tile=tile)
 
