@@ -1,4 +1,6 @@
-from data import Tile
+import data
 
-TestTile = Tile()
+TestTileSet = data.TileSet()
+
+TestTileSet.getRandomTiles(15)
 
