@@ -1,8 +1,8 @@
 from typing import Dict, List
 from dataclasses import dataclass
 from uuid import UUID, uuid1
-import numpy as np
-from numpy.random import default_rng
+# import numpy as np
+# from numpy.random import default_rng
 import json
 
 #**************************************
@@ -17,10 +17,10 @@ class Tile():
 
 class TileSet():
     def __init__(self, tilesetIn) -> None:
-        self.tilesetOut = []
+        self.tiles = []
         self.name = tilesetIn["id"]
         for tile in tilesetIn['tile']:
-            self.tilesetOut.append(Tile(tilesetIn['tile'][tile]))
+            self.tiles.append(Tile(tilesetIn['tile'][tile]))
 
 
 class DataStorage():
@@ -39,7 +39,7 @@ class DataStorage():
     def addTile(self, contents: List[str], tilesetName: str = None) -> bool:
         try:
             tempID = uuid1()
-            self.TileSets[tilesetName].tile[tempID] = Tile({"id" : tempID, "contents" : contents})
+            self.TileSets[tilesetName].tiles[tempID] = Tile({"id" : tempID, "contents" : contents})
             return True
         except KeyError:
             print("Tileset does not exist")
