@@ -1,9 +1,9 @@
-import data
+import dataALT
 import json
 
-D = data.init('tile.json', 'tileset.json')
+D = dataALT.init('tile.json', 'tileset.json')
 
-D.getTileSet("tileset2")
+D.getTileSet("test1")
 
 # mainData = data.DataStorage(tileset)
 
