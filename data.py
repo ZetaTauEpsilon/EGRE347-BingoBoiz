@@ -13,9 +13,6 @@ class Tile():
     def __init__(self, tile):
         self.id = tile["id"]
         self.contents = tile["contents"]
-    # id: UUID
-    # contents: List[str]
-    
 
 
 class TileSet():
@@ -24,12 +21,6 @@ class TileSet():
         self.name = tilesetIn["id"]
         for tile in tilesetIn['tile']:
             self.tilesetOut.append(Tile(tilesetIn['tile'][tile]))
-
-    # def addSet(self, name: str, ids: List[str]):
-    #     # print(type(self.tile))
-    #     self.tile["id"] = name
-    #     self.tile["content"] = Tile(self.id, ids)
-
 
 
 class DataStorage():
@@ -41,13 +32,6 @@ class DataStorage():
         
             for tileset in tilesets:
                 self.TileSets[tileset['id']] = TileSet(tileset)
-
-    # @classmethod
-    # def fromTileSets(self, tileset : dict[str, TileSet]):
-    #     self.TileSets = tileset
-
-    # def getTile(self, id: UUID) -> Tile:
-    #     pass
 
     def getTileSet(self, name: str) -> TileSet:
         return self.TileSets[name]
@@ -66,30 +50,6 @@ class DataStorage():
         self.TileSets[name] = TileSet({"id" : name, "tile" : {}})
         return True
 
+# D = DataStorage('tileset.json')
 
-# def init(tile_json : str, tileset_json : str) -> DataStorage:
-    
-#     D = DataStorage()
-    
-    
-
-
-    # with open('tileset.json') as tileset_json:
-    #     tileset = json.load(tileset_json)
-    #     ran = True
-    #     for tl in tileset:
-    #         if ran:
-    #             D = DataStorage(tl).addTileSet(tl["id"], tl["tile"])
-    #         # else:
-    #             # D = DataStorage(tl)
-    #         # ran = True
-    
-
-    # return D
-
-D = DataStorage('tileset.json')
-
-print(D.getTileSet('tileset2').name)
-
-
-
+# print(D.getTileSet('tileset2').name)
