@@ -37,6 +37,8 @@ def lobby_view(lobby_id):
 # Shows a player their board and interface for play
 @app.route("/lobby/<lobby_id>/<player_id>")
 def game_view(lobby_id, player_id):
+    if player_id not in server_.lobbies[lobby_id].players:
+        server_.lobbies[lobby_id].addPlayer(player_id)
     board_state: BoardState = BoardState()
     return render_template("game.html", lobby_id=lobby_id, player_id=player_id, board_state=board_state)
 

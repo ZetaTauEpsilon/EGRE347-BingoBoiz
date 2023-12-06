@@ -1,42 +1,41 @@
-from lobby import Lobby
-from json import JSON
 import random
 from boardstate import BoardState
+from data import Tile
 
 
 class GameManager():
 
-    def __init__(self):
-        self.board
-        self.state
-        self.size
+    def __init__(self, size):
+        self.board = []
+        self.state = []
+        self.size = size
 
-    def makeBoard(self, Lobby: Lobby, tileSet, isFreeEnabled, boardSize) -> JSON:
+    def makeBoard(self, Lobby, tileSet, isFreeEnabled, boardSize):
         self.size = boardSize
         self.board = [[0 for i in range(boardSize)] for j in range(boardSize)]
         self.state = [[False for i in range(boardSize)] for j in range(boardSize)]
-        tileSampleSize = boardSize*boardSize
-        availableTiles = random.sample(tileSet.tiles, tileSampleSize)
-        tileCt = 0
-        for row in boardSize:
-            for col in boardSize:
-                self.board[row][col] = availableTiles[tileCt]
+
+        for row in range(boardSize):
+            for col in range(boardSize):
+                sample = random.choice(tileSet.tiles)
+                self.board[row][col] = Tile({"id": sample.id, "contents": random.choice(sample.contents)})
+
         """Inputs: TileSet, IsFreeEnabled"""
         # Create a 2D array from a list of tiles depending on the set
             # Loop that selects a random tile from the set and puts it into the 
         # Set the middle tile to free if its enabled
         if(isFreeEnabled):
-            isEven = True if boardSize % 2 == 0 else False
-            if(isEven):
+            if boardSize % 2 == 0:
                 # choose random tile
                 randCol = random.randrange(boardSize-1)
                 randRow = random.randrange(boardSize-1)
-                self.board[randRow][randCol] = "Free"
+                self.board[randRow][randCol] = Tile({"id":"free","contents": "Free"})
                 self.state[randRow][randCol] = True
             else:
-                center = round(boardSize/2) + 1
-                self.board[center][center] = "Free"
+                center = round(boardSize/2)
+                self.board[center][center] = Tile({"id":"free","contents": "Free"})
                 self.state[center][center] = True
+        return BoardState(self.state, self.board)
 
     def grabCol(self, col):
         colData = ()
