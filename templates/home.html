@@ -1,0 +1,19 @@
+{% extends 'layout.html' %}
+{% block content %}
+
+<a class="join-link" href="/create">Create Lobby</a>
+
+<div class="lobby-container">
+    {% for lobby in server.lobbies.values() %}
+    <div class="lobby-list">
+        <h2>{{lobby.name}}</h2>
+        <h2 class="item-spacer"> | </h2>
+        <h2 class="players-item">Players: {{lobby.players|length}}</h2>
+        <h2 class="item-spacer"> | </h2>
+        <a class="join-link" href="/lobby/{{lobby.id}}/{{sid}}">Join</a>
+    </div>
+    <hr>
+    {% endfor %}
+</div>
+
+{% endblock %}
