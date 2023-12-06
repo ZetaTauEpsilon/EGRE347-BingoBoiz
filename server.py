@@ -59,11 +59,15 @@ def lobby_manager():
     if request.method == "POST":
         lobby_id = request.form['id']
         lobby_name = request.form['name']
-        free_tile = request.form['freetile']
+        size = request.form['size']
+        if 'freetile' in request.form:
+            free_tile = True
+        else:
+            free_tile = False
         for attr in request.form:
             if "-en" in attr:
-                tileset = attr
-        server.lobbies[lobby_id] = Lobby(lobby_name, lobby_id, tileset)
+                tileset = attr.replace("-en", "")
+        server.lobbies[lobby_id] = Lobby(lobby_name, lobby_id, server.DataStore.TileSets[tileset], int(size), free_tile)
         return redirect(f"/lobby/{lobby_id}/{session.sid}")
     return render_template('create.html', server=server, id=''.join(random.choices(string.ascii_uppercase + string.digits, k=16)))
 
@@ -78,9 +82,9 @@ def lobby_view(lobby_id):
 # Shows a player their board and interface for play
 @app.route("/lobby/<lobby_id>/<player_id>")
 def game_view(lobby_id, player_id):
-    board_state: BoardState = BoardState(5)
-    server.lobbies[lobby_id].players[str(player_id)] = Player(session.sid, session.sid, board_state)
-    return render_template("game.html", lobby_id=lobby_id, player_id=player_id, board=board_state)
+    lobby = server.lobbies[lobby_id]
+    lobby.players[str(player_id)] = Player(session.sid, session.sid, lobby.GameManager.makeBoard(lobby, lobby.tileset, lobby.free, lobby.size))
+    return render_template("game.html", lobby_id=lobby_id, player_id=player_id, board=lobby.players[str(player_id)].board)
 
 # Run the Flask application
 if __name__ == "__main__":
