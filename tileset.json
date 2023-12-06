@@ -1,0 +1,28 @@
+[
+    {
+        "id": "tileset1",
+        "tile": {
+            "123e4567-e89b-12d3-a456-426614174000": {
+                "id": "123e4567-e89b-12d3-a456-426614174000",
+                "contents": ["content1", "content2", "content3"]
+            },
+            "123e4567-e89b-12d3-a456-426614174001": {
+                "id": "123e4567-e89b-12d3-a456-426614174001",
+                "contents": ["content4", "content5", "content6"]
+            }
+        }
+    },
+    {
+        "id": "tileset2",
+        "tile": {
+            "123e4567-e89b-12d3-a456-426614174002": {
+                "id": "123e4567-e89b-12d3-a456-426614174002",
+                "contents": ["content7", "content8", "content9"]
+            },
+            "123e4567-e89b-12d3-a456-426614174003": {
+                "id": "123e4567-e89b-12d3-a456-426614174003",
+                "contents": ["contentA", "contentB", "contentC"]
+            }
+        }
+    }
+]
