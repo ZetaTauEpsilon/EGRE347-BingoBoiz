@@ -38,9 +38,9 @@ class GameManager():
                 self.board[center][center] = "Free"
                 self.state[center][center] = True
 
-    def grabCol(self, col):
+    def grabCol(self, playerBoard, col):
         colData = ()
-        for row in self.state:
+        for row in playerBoard.state:
             for item in row:
                 if row.index(item) == col:
                     colData.append(item)
@@ -55,26 +55,26 @@ class GameManager():
         return True if count == len(col) else False
 
     # Check left-right diagonal
-    def checkLtRDiagonalWin(self):
+    def checkLtRDiagonalWin(self, playerBoard):
         count, itr = 0
-        while itr < self.size:
-            if self.state[count][count]:
+        while itr < playerBoard.size:
+            if playerBoard.state[count][count]:
                 count += 1
             itr += 1
-        return True if count == self.size else False
+        return True if count == playerBoard.size else False
     
     # Check right-left diagonal
-    def checkRtLDiagonalWin(self):
-        countX = self.size - 1
+    def checkRtLDiagonalWin(self, playerBoard):
+        countX = playerBoard.size - 1
         countY, itr = 0
         count
-        while itr < self.size:
-            if self.state[countX][countY]:
+        while itr < playerBoard.size:
+            if playerBoard.state[countX][countY]:
                 count += 1
             itr += 1
             countX -= 1
             countY += 1
-        return True if count == self.size else False
+        return True if count == playerBoard.size else False
         
     def evaluateWin(self, BoardState: BoardState, tileX, tileY) -> bool:
         """Inputs: Tile Coordinates"""
@@ -84,10 +84,10 @@ class GameManager():
         # If the tile is on one of the diagonals check them
         # If all tile states in the column or row or diagonal are true,
         # then return a win       
-        if self.checkLtRDiagonalWin() | self.checkRtLDiagonalWin():
+        if self.checkLtRDiagonalWin(BoardState) | self.checkRtLDiagonalWin(BoardState):
             return True 
-        col = self.grabCol(tileX)
-        if self.checkWinHV(col) | self.checkWinHV(self.state[tileY]):
+        col = self.grabCol(BoardState, tileX)
+        if self.checkWinHV(col) | self.checkWinHV(BoardState.state[tileY]):
             return True
         else:
             return False
