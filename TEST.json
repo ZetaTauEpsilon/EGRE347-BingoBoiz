@@ -17,9 +17,7 @@
         "tile": {
             "123e4567-e89b-12d3-a456-426614174001": {
                 "id": "123e4567-e89b-12d3-a456-426614174001",
-                "contents": [
-                    "Class"
-                ]
+                "contents": "Class"
             },
             "123e4567-e89b-12d3-a456-426614174002": {
                 "id": "123e4567-e89b-12d3-a456-426614174002",
@@ -385,44 +383,24 @@
     {
         "id": "test",
         "tile": {
-            "84df590c-9475-11ee-ac37-acec0a5a2d90": {
-                "id": "84df590c-9475-11ee-ac37-acec0a5a2d90",
+            "07622a45-9475-11ee-afd7-acec0a5a2d90": {
+                "id": "07622a45-9475-11ee-afd7-acec0a5a2d90",
                 "contents": "here"
             },
-            "84dfce68-9475-11ee-a169-acec0a5a2d90": {
-                "id": "84dfce68-9475-11ee-a169-acec0a5a2d90",
+            "07629f6e-9475-11ee-9b76-acec0a5a2d90": {
+                "id": "07629f6e-9475-11ee-9b76-acec0a5a2d90",
                 "contents": "is"
             },
-            "84dfce69-9475-11ee-9809-acec0a5a2d90": {
-                "id": "84dfce69-9475-11ee-9809-acec0a5a2d90",
+            "07629f6f-9475-11ee-a6d7-acec0a5a2d90": {
+                "id": "07629f6f-9475-11ee-a6d7-acec0a5a2d90",
                 "contents": "a"
             },
-            "84dfce6a-9475-11ee-8d88-acec0a5a2d90": {
-                "id": "84dfce6a-9475-11ee-8d88-acec0a5a2d90",
+            "07629f70-9475-11ee-a92f-acec0a5a2d90": {
+                "id": "07629f70-9475-11ee-a92f-acec0a5a2d90",
                 "contents": "new"
             },
-            "84dfce6b-9475-11ee-ac47-acec0a5a2d90": {
-                "id": "84dfce6b-9475-11ee-ac47-acec0a5a2d90",
-                "contents": "tileset"
-            },
-            "9148f16b-9475-11ee-abc9-acec0a5a2d90": {
-                "id": "9148f16b-9475-11ee-abc9-acec0a5a2d90",
-                "contents": "here"
-            },
-            "9149668e-9475-11ee-a75f-acec0a5a2d90": {
-                "id": "9149668e-9475-11ee-a75f-acec0a5a2d90",
-                "contents": "is"
-            },
-            "9149668f-9475-11ee-b33d-acec0a5a2d90": {
-                "id": "9149668f-9475-11ee-b33d-acec0a5a2d90",
-                "contents": "a"
-            },
-            "91496690-9475-11ee-9342-acec0a5a2d90": {
-                "id": "91496690-9475-11ee-9342-acec0a5a2d90",
-                "contents": "new"
-            },
-            "91496691-9475-11ee-96da-acec0a5a2d90": {
-                "id": "91496691-9475-11ee-96da-acec0a5a2d90",
+            "07629f71-9475-11ee-a3ef-acec0a5a2d90": {
+                "id": "07629f71-9475-11ee-a3ef-acec0a5a2d90",
                 "contents": "tileset"
             }
         }
