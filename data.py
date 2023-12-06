@@ -22,9 +22,12 @@ class TileSet():
         for tile in tilesetIn['tile']:
             self.tiles.append(Tile(tilesetIn['tile'][tile]))
 
+    def getIDs(self, tileSetName):
+        pass
+
+
 
 class DataStorage():
-
     def __init__(self, filename : str) -> None:
         self.TileSets = {}
         with open(filename) as tilesets_json:
@@ -35,6 +38,13 @@ class DataStorage():
 
     def getTileSet(self, name: str) -> TileSet:
         return self.TileSets[name]
+    
+    def getTileSetIDs(self, tilesetName : str):
+        ids = []
+        tileset = self.getTileSet(tilesetName)
+        for tile in tileset.tilesetOut:
+            ids.append(tile.id)
+        return ids
 
     def addTile(self, contents: List[str], tilesetName: str = None) -> bool:
         try:
@@ -52,4 +62,4 @@ class DataStorage():
 
 # D = DataStorage('tileset.json')
 
-# print(D.getTileSet('tileset2').name)
+# print(D.getTileSetIDs('tileset2'))
