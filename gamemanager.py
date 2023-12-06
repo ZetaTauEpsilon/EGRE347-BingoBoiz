@@ -15,10 +15,13 @@ class GameManager():
         self.board = [[0 for i in range(boardSize)] for j in range(boardSize)]
         self.state = [[False for i in range(boardSize)] for j in range(boardSize)]
 
+        sample = random.sample(tileSet.tiles, boardSize**2)
+
         for row in range(boardSize):
             for col in range(boardSize):
-                sample = random.choice(tileSet.tiles)
-                self.board[row][col] = Tile({"id": sample.id, "contents": random.choice(sample.contents)})
+                choice = random.choice(sample)
+                self.board[row][col] = Tile({"id": choice.id, "contents": random.choice(choice.contents)})
+                sample.remove(choice)
 
         """Inputs: TileSet, IsFreeEnabled"""
         # Create a 2D array from a list of tiles depending on the set

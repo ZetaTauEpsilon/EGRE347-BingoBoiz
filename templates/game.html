@@ -9,20 +9,138 @@
 </div>
 <div class="game-container">
   <div class="game" id="game_cells">
-    {% for row in board.contents %} {% for tile in row %}
-    <div id="{{tile.id}}" class="game-cell" onclick="selected(this)">
+    {% for row in board.contents %}
+      {% set col_index = loop.index %}
+      {% for tile in row %}
+    <div id="{{tile.id}}" y="{{loop.index}}" x="{{col_index}}" class="game-cell" onclick="selected(this)">
       {{tile.contents}}
     </div>
     {% endfor%} {% endfor %}
   </div>
 </div>
-<form method="post">
+<form id="rename">
   <label for="playername">Set Name:</label>
   <input type="text" name="playername" placeholder="Gary"></input>
 </form>
 <div id="other_boards"></div>
 
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js" integrity="sha512-q/dWJ3kcmjBLU4Qc47E4A9kTB4m3wuTY7vkFJDTZKjTs8jhyGQnaUrxa0Ytd0ssMZhbNua9hE+E7Qv1j+DyZwA==" crossorigin="anonymous"></script>
+<script>
+  const session = "{{session}}"
+  const player = "{{player_id}}"
+  let player_name = player
+  var boards = []
+
+  var socket = io();
+  free = document.getElementById("free")
+
+  if (free != null) {
+    free.style.backgroundColor = "green"
+  }
+
+  socket.on('connect', function() {
+      socket.emit('join', {type: 'join', id: session, player: player});
+      console.log('Test')
+  });
+
+  socket.on('msg', function(msg) {
+    console.log(msg)
+  })
+
+  socket.on("refresh", function(data) {
+    data.states.forEach((row) => {
+      row.forEach((tile) => {
+        if (tile == 1) {
+          console.log(parseInt(row.indexOf(tile))+1 + '"][y="' + parseInt(data.states.indexOf(row))+1 + '"]')
+        document.querySelectorAll('[x="' + (parseInt(row.indexOf(tile))+1) + '"][y="' + (parseInt(data.states.indexOf(row))+1) + '"]')[0].style.backgroundColor = "green"
+        }
+      })
+    })
+  })
+
+  socket.on('state_update', function(data) {
+    console.log(data.player_id != player)
+    console.log(data.player_id)
+    console.log(player)
+    if (data.player_id != player) {
+      console.log(data)
+    console.log(data.player_id)
+    other_boards = document.getElementById("other_boards")
+    to_update = document.getElementById(data.player_id)
+    if (to_update == null) {
+      let board_node = document.createElement("div")
+      let board_name = document.createElement("div")
+      board_node.id = data.player_id
+      board_node.className = "game-small"
+      board_name.innerHTML = data.name
+      board_name.className = "game-title"
+      board_name.id = data.player_id + "_name"
+      other_boards.appendChild(board_node)
+      other_boards.appendChild(board_name)
+      to_update = document.getElementById(data.player_id)
+    }
+    let name_element = document.getElementById(data.player_id + "_name")
+    name_element.innerHTML = data.name
+    let element = to_update
+    element.innerHTML = ""
+    data.states.forEach((row) => {
+      row.forEach((tile) => {
+        let e = document.createElement("div")
+        e.className = "small-game-cell"
+        e.data
+        e.setAttribute('y', row.indexOf(tile))
+        e.setAttribute('x', data.states.indexOf(row))
+        if (tile == 1) {
+          e.style.backgroundColor = "green"
+        } else {
+          e.style.backgroundColor = "transparent"
+        }
+        element.appendChild(e)
+      })
+    })
+    }
+  })
+  form = document.getElementById("rename")
+  form.addEventListener('submit', rename);
+
+  function rename(event) {
+    event.preventDefault()
+    player_name = document.getElementsByName("playername")[0].value
+    socket.emit("rename", {type: "rename", id: session, player: player, name: player_name})
+  }
+
+  var divItems = document.getElementsByClassName("game-cell")
+
+  function selected(item) {
+    if (item.style.backgroundColor != "green") {
+      item.style.backgroundColor = "green"
+      const msg = {
+        type: "state_update",
+        session: session,
+        player: player,
+        index: item.id,
+        x: item.getAttribute('x'),
+        y: item.getAttribute('y'),
+        state: 1,
+      }
+      socket.emit("state_update", msg)
+    } else if (item.style.backgroundColor == "green") {
+      item.style.backgroundColor = "transparent"
+      const msg = {
+        type: "state_update",
+        session: session,
+        player: player,
+        index: item.id,
+        x: item.getAttribute('x'),
+        y: item.getAttribute('y'),
+        state: 0,
+      }
+      socket.emit("state_update", msg)
+    }
+  }
+
+</script>
 
 
 
