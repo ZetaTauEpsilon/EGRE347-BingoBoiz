@@ -1,0 +1,17 @@
+{% extends 'layout.html' %}
+{% block content %}
+
+<h1>Enter Tile Set Information</h1>
+<form action="/submit-tiles" method="post">
+    <label for="tileSetName">Tile Set Name:</label><br>
+    <input type="text" id="tileSetName" name="tileSetName" placeholder="347"><br>
+
+    <label for="tiles">Tile Names:</label><br>
+    <textarea id="tiles" name="tiles" placeholder="comma separated, Max 40, no Min"
+    spellcheck="false" style="width: 521px; height: 250px;">
+    </textarea><br>
+
+    <input type="submit" value="Submit">
+</form>
+
+    {% endblock %}

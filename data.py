@@ -1,31 +1,55 @@
-from typing import dataclass, Dict, List
-from uuid import UUID
+from typing import Dict, List
+from dataclasses import dataclass
+from uuid import UUID, uuid1
+# import numpy as np
+# from numpy.random import default_rng
+import json
 
-@dataclass
+#**************************************
+debug = 1
+#**************************************
+
 class Tile():
-    id: UUID
-    contents: List[str]
+    def __init__(self, tile):
+        self.id = tile["id"]
+        self.contents = tile["contents"]
 
-@dataclass
+
 class TileSet():
-    id: str
-    tile: Dict(UUID, Tile)
+    def __init__(self, tilesetIn) -> None:
+        self.tiles = []
+        self.name = tilesetIn["id"]
+        for tile in tilesetIn['tile']:
+            self.tiles.append(Tile(tilesetIn['tile'][tile]))
 
-    def getRandomTiles(num: int) -> List[Tile]:
-        pass
 
-@dataclass
 class DataStorage():
-    TileSets: Dict[str, TileSet]
 
-    def getTile(self, id: UUID) -> Tile:
-        pass
+    def __init__(self, filename : str) -> None:
+        self.TileSets = {}
+        with open(filename) as tilesets_json:
+            tilesets= json.load(tilesets_json)
+        
+            for tileset in tilesets:
+                self.TileSets[tileset['id']] = TileSet(tileset)
 
     def getTileSet(self, name: str) -> TileSet:
-        pass
+        return self.TileSets[name]
 
-    def addTile(self, contents: str, tileset: str = None) -> bool:
-        pass
+    def addTile(self, contents: List[str], tilesetName: str = None) -> bool:
+        try:
+            tempID = uuid1()
+            self.TileSets[tilesetName].tiles[tempID] = Tile({"id" : tempID, "contents" : contents})
+            return True
+        except KeyError:
+            print("Tileset does not exist")
+            return False
+        
 
     def addTileSet(self, name: str, tiles: List[str]) -> bool:
-        pass
+        self.TileSets[name] = TileSet({"id" : name, "tile" : {}})
+        return True
+
+# D = DataStorage('tileset.json')
+
+# print(D.getTileSet('tileset2').name)
