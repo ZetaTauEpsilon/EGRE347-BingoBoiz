@@ -1,11 +1,11 @@
 from uuid import UUID, uuid1
 
 class Player():
-
-    def __init__(self, playerName : str):
-        self.id = uuid1()
-        self.name = playerName
-        self.numWins = 0
+    def __init__(self, pid, name, board):
+        self.id = pid
+        self.name = name
+        self.wins = 0
+        self.board = board
 
     def addWin(self) -> bool:
         self.numWins += 1

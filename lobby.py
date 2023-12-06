@@ -1,9 +1,13 @@
 from player import Player
+import string, random
 
-def Lobby():
+class Lobby:
 
-    def __init__():
-        pass
+    def __init__(self, name, id, tileset):
+        self.name = name
+        self.players = {}
+        self.id = id
+        self.tileset = tileset
 
     def addPlayer(Player: Player):
         pass
