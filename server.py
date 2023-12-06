@@ -40,7 +40,6 @@ Session(app)
 socketio = SocketIO(app)
 server = Server()
 
-
 # Route to homepage
 # Displays all currently running games with join button, current number of players, and creation timestamp
 @app.route("/")

@@ -1,8 +1,8 @@
 from typing import Dict, List
 from dataclasses import dataclass
 from uuid import UUID, uuid1
-# import numpy as np
-# from numpy.random import default_rng
+import numpy as np
+from numpy.random import default_rng
 import json
 
 #**************************************
@@ -13,14 +13,23 @@ class Tile():
     def __init__(self, tile):
         self.id = tile["id"]
         self.contents = tile["contents"]
+    # id: UUID
+    # contents: List[str]
+    
 
 
 class TileSet():
     def __init__(self, tilesetIn) -> None:
-        self.tiles = []
+        self.tilesetOut = []
         self.name = tilesetIn["id"]
         for tile in tilesetIn['tile']:
-            self.tiles.append(Tile(tilesetIn['tile'][tile]))
+            self.tilesetOut.append(Tile(tilesetIn['tile'][tile]))
+
+    # def addSet(self, name: str, ids: List[str]):
+    #     # print(type(self.tile))
+    #     self.tile["id"] = name
+    #     self.tile["content"] = Tile(self.id, ids)
+
 
 
 class DataStorage():
@@ -33,13 +42,20 @@ class DataStorage():
             for tileset in tilesets:
                 self.TileSets[tileset['id']] = TileSet(tileset)
 
+    # @classmethod
+    # def fromTileSets(self, tileset : dict[str, TileSet]):
+    #     self.TileSets = tileset
+
+    # def getTile(self, id: UUID) -> Tile:
+    #     pass
+
     def getTileSet(self, name: str) -> TileSet:
         return self.TileSets[name]
 
     def addTile(self, contents: List[str], tilesetName: str = None) -> bool:
         try:
             tempID = uuid1()
-            self.TileSets[tilesetName].tiles[tempID] = Tile({"id" : tempID, "contents" : contents})
+            self.TileSets[tilesetName].tile[tempID] = Tile({"id" : tempID, "contents" : contents})
             return True
         except KeyError:
             print("Tileset does not exist")
@@ -50,6 +66,30 @@ class DataStorage():
         self.TileSets[name] = TileSet({"id" : name, "tile" : {}})
         return True
 
-# D = DataStorage('tileset.json')
 
-# print(D.getTileSet('tileset2').name)
+# def init(tile_json : str, tileset_json : str) -> DataStorage:
+    
+#     D = DataStorage()
+    
+    
+
+
+    # with open('tileset.json') as tileset_json:
+    #     tileset = json.load(tileset_json)
+    #     ran = True
+    #     for tl in tileset:
+    #         if ran:
+    #             D = DataStorage(tl).addTileSet(tl["id"], tl["tile"])
+    #         # else:
+    #             # D = DataStorage(tl)
+    #         # ran = True
+    
+
+    # return D
+
+D = DataStorage('tileset.json')
+
+print(D.getTileSet('tileset2').name)
+
+
+
