@@ -74,6 +74,7 @@ div.game {
     text-align: center;
     user-select: none;
     font-size: 80%;
+    background-color: black;
   }
 
   .small-game-cell {
@@ -125,3 +126,15 @@ div.game {
     justify-content: space-evenly;
     margin: 25px;
   }
+
+  body
+  {
+    background-image: url(/static/sakura-tree.jpg); /* Replace with your image path */
+    background-size: cover; /* This will ensure that your image covers the whole page */
+    background-repeat: no-repeat; /* This prevents the image from repeating */
+    background-attachment: fixed; /* This will fix the position of the image while scrolling */
+  }
+
+ 
+
+  

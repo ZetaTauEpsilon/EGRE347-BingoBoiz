@@ -6,11 +6,22 @@
     <meta name="description" content="Bingo. Hell yeah" />
     <link
       rel="stylesheet"
-      href="https://unpkg.com/sakura.css/css/sakura-dark.css"
+      href="https://unpkg.com/sakura.css/css/sakura-vader.css"
     />
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    
+    <style>
+      body {
+        background-image: url(/static/sakura-tree.jpg); 
+        background-size: cover; 
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+    </style>
+  
   </head>
   <body>
     {% block content %}{% endblock %}
   </body>
 </html>
+
