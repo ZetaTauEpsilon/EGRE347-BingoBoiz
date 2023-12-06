@@ -7,6 +7,13 @@
   ><span><b>G</b></span>
   <span><b>O</b></span>
 </div>
+
+<form method="post">
+  <label for="playername">Set Name:</label>
+  <input type="text" name="playername" placeholder="Gary"></input>
+</form>
+
+
 <div class="game-container">
   <div class="game" id="game_cells">
     {% for row in board.contents %}
@@ -143,6 +150,6 @@
 </script>
 
 
-
+<div id="other_boards"></div>
 {% endblock %}
 

@@ -22,6 +22,7 @@ class TileSet():
         for tile in tilesetIn['tile']:
             self.tiles.append(Tile(tilesetIn['tile'][tile]))
 
+
     # def getIDs(self, tileSetName):
     #     pass
 
@@ -97,3 +98,4 @@ class DataStorage():
 # D.dumpToJSON()
 
 # print(D.getTileSetIDs('tileset2'))
+
