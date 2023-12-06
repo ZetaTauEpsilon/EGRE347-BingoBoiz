@@ -4,3 +4,4 @@ __pycache__
 bingo
 .gitignore
 .Archive
+flask_session
