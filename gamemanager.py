@@ -16,7 +16,7 @@ class GameManager():
         self.board = [[0 for i in range(boardSize)] for j in range(boardSize)]
         self.state = [[False for i in range(boardSize)] for j in range(boardSize)]
         tileSampleSize = boardSize*boardSize
-        availableTiles = random.sample(tileSet, tileSampleSize)
+        availableTiles = random.sample(tileSet.tiles, tileSampleSize)
         tileCt = 0
         for row in boardSize:
             for col in boardSize:
