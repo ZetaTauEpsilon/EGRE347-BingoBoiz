@@ -1,7 +1,6 @@
 from data import Tile
 
 class BoardState:
-    
     def __init__(self, size):
         self.state = [[0 for x in range(size)] for y in range(size)]
         self.contents = [[Tile({"id": "123123", "contents": "asdf"}) for x in range(size)] for y in range(size)]
