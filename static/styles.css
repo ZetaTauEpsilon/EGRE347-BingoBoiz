@@ -75,7 +75,9 @@ div.game {
     user-select: none;
     font-size: 80%;
     background-color: black;
-    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   .small-game-cell {
