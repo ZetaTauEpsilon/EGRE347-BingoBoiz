@@ -97,7 +97,7 @@
         if (tile == 1) {
           e.style.backgroundColor = "green"
         } else {
-          e.style.backgroundColor = "transparent"
+          e.style.backgroundColor = "black"
         }
         element.appendChild(e)
       })
@@ -129,7 +129,7 @@
       }
       socket.emit("state_update", msg)
     } else if (item.style.backgroundColor == "green") {
-      item.style.backgroundColor = "transparent"
+      item.style.backgroundColor = "black"
       const msg = {
         type: "state_update",
         session: session,
