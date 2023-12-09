@@ -69,7 +69,7 @@ class GameManager():
     def checkRtLDiagonalWin(self, playerBoard):
         countX = playerBoard.size - 1
         countY, itr = 0
-        count
+        count = 0
         while itr < playerBoard.size:
             if playerBoard.state[countX][countY]:
                 count += 1
