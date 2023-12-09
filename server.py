@@ -92,6 +92,18 @@ def lobby_manager():
     new_id = ''.join(random.choices(string.ascii_uppercase + string.digits, k=6))
     return render_template('create.html', server=server, id=new_id)
 
+@app.route("/tiles", methods=["POST", "GET"])
+def tiles_view():
+    if request.method == "POST":
+        tilesetName = request.form['tileSetName']
+        tiles = request.form['tiles']
+
+        server.DataStore.addTileSet(tilesetName, tiles)
+        
+        return redirect(f"/create")
+
+    return render_template('tiles.html', data=server.DataStore)
+
 # Route to lobby manager
 # Displays all boardstates and player information in given lobby
 @app.route("/lobby/<lobby_id>/")

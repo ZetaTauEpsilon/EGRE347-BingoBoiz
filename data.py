@@ -73,7 +73,10 @@ class DataStorage():
         for tile in res:
             self.addTile(tile, name)
 
+        self.dumpToJSON()
+        
         return True
+
     def dumpToJSON (self) -> bool:
         dictList = []
         for key in self.TileSets.keys():
