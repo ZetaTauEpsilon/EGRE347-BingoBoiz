@@ -6,8 +6,8 @@ class BoardState:
         self.contents = contents
         self.win = False
 
-    def updateState(self, row, col) -> bool:
-        self.state[row][col] = True if self.state[row][col] == False else False
     """Inputs: Row and Column of Tile"""
     # Change the state of the tile at given coordinates
     # Based on the current state of the tile
+    def updateState(self, row, col) -> bool:
+        self.state[row][col] = True if self.state[row][col] == False else False
