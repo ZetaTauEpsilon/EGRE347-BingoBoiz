@@ -19,12 +19,27 @@
 
     {% for tileset in server.DataStore.TileSets.values() %}
         <label for="{{tileset.name}}-en">{{tileset.name}}</label>
-        <input type="checkbox" id="{{tileset.name}}-en" name="{{tileset.name}}-en" value="True">
+        <input class="chk" type="checkbox" id="{{tileset.name}}-en" name="{{tileset.name}}-en" value="True" onclick="selectOnlyThis(this.id)">
     {% endfor %}
     
     <hr>
 
     <input type="submit" value="Create Lobby">
 </form>
+
+<script>
+
+function selectOnlyThis(id) {
+
+    let all = document.getElementsByClassName("chk")
+
+    Array.from(all).forEach(element => {
+        element.checked = false;
+    });
+
+    document.getElementById(id).checked = true;
+}
+
+</script>
 
 {% endblock %}
