@@ -24,7 +24,6 @@ class Server():
         self.lobbies[lobby_id].players[player_id].board.updateState(int(data['x'])-1, int(data['y'])-1)
         player = self.getPlayer(lobby_id, player_id)
         win = self.lobbies[lobby_id].GameManager.evaluateWin(player.board, int(data['y'])-1, int(data['x'])-1)
-        print(win)
         self.getPlayer(lobby_id, player_id).board.win = win
     
     def stateUpdate(self, lobby_id, player_id, event_type="state_update", to_all=True):
@@ -36,7 +35,6 @@ class Server():
                 "states": self.lobbies[lobby_id].players[player_id].board.state,
                 "win": player.board.win
                 }
-        print(data, event_type, to)
         emit(event_type, data, room=to, json=True)
 
 app = Flask(__name__)
@@ -122,7 +120,6 @@ def game_view(lobby_id, player_id):
 @socketio.on('join')
 def on_join(data):
     print("join")
-    print(data)
     join_room(session['lobby_id'])
     server.stateUpdate(session['lobby_id'], session['sid'], to_all=False, event_type="refresh")
     for player in server.lobbies[session['lobby_id']].players.keys():
