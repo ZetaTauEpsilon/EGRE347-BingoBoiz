@@ -24,11 +24,10 @@ class Server():
         self.lobbies[lobby_id].players[player_id].board.updateState(int(data['x'])-1, int(data['y'])-1)
         player = self.getPlayer(lobby_id, player_id)
         win = self.lobbies[lobby_id].GameManager.evaluateWin(player.board, int(data['y'])-1, int(data['x'])-1)
-        print(win)
         self.getPlayer(lobby_id, player_id).board.win = win
     
     def stateUpdate(self, lobby_id, player_id, event_type="state_update", to_all=True):
-        to = lobby_id if to_all else player_id
+        to = lobby_id if to_all else request.sid
         player = self.getPlayer(lobby_id, player_id)
         data =  {
                 "player_id": player_id, 
@@ -37,8 +36,6 @@ class Server():
                 "win": player.board.win
                 }
         emit(event_type, data, room=to, json=True)
-    
-
 
 app = Flask(__name__)
 # First Time Crypto Setup Handler
@@ -84,7 +81,6 @@ def lobby_manager():
                 tileset = attr.replace("-en", "")
         
         server.lobbies[lobby_id] = Lobby(lobby_name, lobby_id, server.DataStore.TileSets[tileset], int(size), free_tile)
-        print(server.lobbies[lobby_id])
         session["lobby_id"] = lobby_id
         session["sid"] = session.sid
         return redirect(f"/lobby/{lobby_id}/{session.sid}")
@@ -118,7 +114,7 @@ def game_view(lobby_id, player_id):
     session["sid"] = session.sid
     lobby = server.lobbies[lobby_id]
     if player_id not in lobby.players:
-        lobby.players[str(player_id)] = Player(session.sid, session.sid, lobby.GameManager.makeBoard(lobby, lobby.tileset, lobby.free, lobby.size))
+        lobby.addPlayer(player_id)
     return render_template("game.html", lobby_id=lobby_id, player_id=player_id, board=lobby.players[str(player_id)].board)
 
 @socketio.on('join')
@@ -126,15 +122,13 @@ def on_join(data):
     print("join")
     join_room(session['lobby_id'])
     server.stateUpdate(session['lobby_id'], session['sid'], to_all=False, event_type="refresh")
-    server.stateUpdate(session['lobby_id'], session['sid'])
     for player in server.lobbies[session['lobby_id']].players.keys():
         if player != session['sid']:
-            server.stateUpdate(session['lobby_id'], player)
+            server.stateUpdate(session['lobby_id'], player, to_all=False)
 
 @socketio.on('state_update')
 def on_update(data):
     print("state_update")
-    print(data)
     server.handleUpdate(session['lobby_id'], session['sid'], data)
     server.stateUpdate(session['lobby_id'], session['sid'])
 

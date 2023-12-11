@@ -11,13 +11,7 @@ class Lobby:
         self.tileset = tileset
         self.size = size
         self.GameManager = GameManager(self.size)
-        self.free = free #TODO: add to main
+        self.free = free
 
     def addPlayer(self, player_id):
         self.players[player_id] = Player(player_id, player_id, self.GameManager.makeBoard(self, self.tileset, self.free, self.size))
-
-    def removePlayer(uuid) -> bool:
-        pass
-
-    def getPlayer(uuid) -> Player:
-        pass

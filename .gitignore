@@ -5,3 +5,4 @@ bingo
 .gitignore
 .Archive
 flask_session
+.DS_STORE
